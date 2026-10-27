@@ -1,0 +1,92 @@
+// Variable overrides first
+$primary: #c04545;
+$secondary: #c04545;
+$enable-shadows: true;
+$font-family-base: sans-serif;
+$font-size-base: 1.333rem;
+
+// Then import Bootstrap
+@import "../../../../node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+	letter-spacing: 0.002rem;
+	position: relative;
+
+	&:after {
+		content: "";
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-image: url( "./bg.webp" );
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+		z-index: -1;
+		opacity: 0.1;
+	}
+}
+
+.app {
+	padding: 3rem;
+}
+
+.app__title {
+	text-align: center;
+	font-weight: 900;
+	margin-bottom: 3rem;
+    position: relative;
+    z-index: 0;
+    color: #000;
+    font-size: 4rem;
+}
+
+.export {
+	margin: 1rem 0;
+	text-align: center;
+	display: flex;
+	gap: 0.5rem;
+    justify-content: center;
+}
+
+.yes {
+	color: green;
+}
+
+.no {
+	color: rgb( 206, 5, 5 );
+}
+
+.number {
+	text-align: right;
+}
+
+.red {
+	color: rgb(167, 0, 0);
+}
+
+.green {
+	color: rgb(1, 126, 57);
+}
+
+.blue {
+	color: blue;
+}
+
+.yellow {
+	color: yellow;
+    text-shadow: 1px 1px 0 rgba( 0, 0, 0, 0.5 );
+}
+
+.orange {
+	color: orange;
+}
+
+.logo {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}

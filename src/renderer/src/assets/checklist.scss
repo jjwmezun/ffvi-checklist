@@ -1,0 +1,55 @@
+.checklist__title {
+	text-align: center;
+	margin-bottom: 2rem;
+	margin-top: 3rem;
+	font-weight: 600;
+	color: #000;
+}
+
+.checklist-table,
+.checklist-table__cell {
+	border: 1px solid #363636;
+	border-collapse: collapse;
+	padding: 0.5rem 1rem;
+	margin: 0 auto;
+}
+
+.checklist-table__row {
+	background-color: #e3dad1;
+}
+
+.checklist-table__row:nth-child( even ) {
+	background-color: #c5b7aa;
+}
+
+.checklist-table__row--checked td,
+.checklist-table__row:hover td {
+	background-color: #ff7676;
+	cursor: pointer;
+}
+
+th.checklist-table__cell {
+	text-align: center;
+	background-color: #443727;
+	color: #fff;
+    letter-spacing: 0.05rem;
+    padding: 1rem;
+}
+
+.checklist-table__check {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    input {
+        font-size: inherit;
+        width: 2rem;
+        height: 2rem;
+        cursor: pointer;
+    }
+}
+
+.checklist-table__check-count {
+	white-space: nowrap;
+}
