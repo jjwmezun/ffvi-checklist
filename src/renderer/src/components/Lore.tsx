@@ -4,9 +4,11 @@ import {
 	GameVersion,
 	LoreData,
 } from '../common/types';
+import { EnemyData } from '../common/types';
 
 interface LoreProps {
 	checked: CheckData,
+	enemies: EnemyData[],
 	gameVersion: GameVersion,
 	generateOnCheck: ( type: CheckType ) => ( index: number ) => () => void,
     list: LoreData[];
@@ -15,12 +17,13 @@ interface LoreProps {
 interface LoreRowProps {
 	item: LoreData;
 	checked: CheckData;
+	enemies: EnemyData[],
 	gameVersion: GameVersion;
 	generateOnCheck: ( type: CheckType ) => ( index: number ) => () => void;
 }
 
 function LoreRow( props: LoreRowProps ): React.JSX.Element {
-	const { item, checked, gameVersion, generateOnCheck } = props;
+	const { item, checked, enemies, gameVersion, generateOnCheck } = props;
 
 	const classes = `checklist-table__row${ checked.lore[ item.id ] ? ` checklist-table__row--checked` : `` }`;
 
@@ -36,28 +39,34 @@ function LoreRow( props: LoreRowProps ): React.JSX.Element {
 		</td>
 		<td className="checklist-table__cell">{ item.id }</td>
 		<td className="checklist-table__cell">{ item.names[ gameVersion ] }</td>
+		<td className="checklist-table__cell">
+			{ item.enemies.map( id => enemies.find( e => e.id === id )?.names[ gameVersion ] ?? null )
+				.filter( name => name !== null ).join( `, ` ) }
+		</td>
 	</tr>;
 }
 
 function Lore( props: LoreProps ) {
-	const { checked, list, gameVersion, generateOnCheck } = props;
+	const { checked, enemies, list, gameVersion, generateOnCheck } = props;
 
 	const checkedCount = list.filter( item => checked.lore[ item.id ] ).length;
 
 	return <div>
-		<h2 className="checklist__title">Lore</h2>
+		<h2 className="checklist__title">Lores</h2>
 		<table className="checklist-table">
 			<thead>
 				<tr>
 					<th className="checklist-table__cell">{ checkedCount } / { list.length }</th>
 					<th className="checklist-table__cell">#</th>
 					<th className="checklist-table__cell">Name</th>
+					<th className="checklist-table__cell">Enemies</th>
 				</tr>
 			</thead>
 			<tbody>
 				{ list.map( ( item, index ) => <LoreRow
 					key={ index }
 					checked={ checked }
+					enemies={ enemies }
 					gameVersion={ gameVersion }
 					item={ item }
 					generateOnCheck={ generateOnCheck }

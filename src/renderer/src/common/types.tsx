@@ -81,6 +81,7 @@ enum GameVersion {
 }
 
 interface LoreData {
+	enemies: number[],
 	id: number,
 	names: {
 		gba: string,
@@ -101,11 +102,28 @@ interface MagiciteData {
 		snes: boolean,
 	},
 	id: number,
+	found: string,
+	lvBonus: {
+		gba: string,
+		pixel: string,
+		snes: string,
+	},
+	mainSpell: string,
 	names: {
 		gba: string,
 		pixel: string,
 		snes?: string,
 	},
+	spells: MagiciteSpellData[],
+}
+interface MagiciteSpellData {
+	multiplier: number,
+	names: {
+		gba: string,
+		pixel: string,
+		snes: string,
+	},
+	type: string,
 }
 
 interface RageData {

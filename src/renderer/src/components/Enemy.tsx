@@ -85,8 +85,11 @@ function Enemy( props: EnemyProps ): React.JSX.Element {
 
 	const veldtLength = checked.veldt.filter( ( v, i ) => v && validIds.includes( i ) ).length;
 
+	/* eslint-disable max-len */
+
 	return <div>
 		<h2 className="checklist__title">Enemies</h2>
+		<div className="enemy-desc">Bestiary checks are for enemies defeated in battle, veldt checks are for enemies encountered & beaten or successfully fled.</div>
 		<table className="checklist-table">
 			<thead>
 				<tr>
@@ -115,6 +118,8 @@ function Enemy( props: EnemyProps ): React.JSX.Element {
 			</tbody>
 		</table>
 	</div>;
+
+	/* eslint-enable max-len */
 }
 
 export default Enemy;

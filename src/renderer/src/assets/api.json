@@ -14691,6 +14691,7 @@
   ],
   "lore": [
     {
+      "enemies": [ 259, 211, 240, 155, 383, 308, 366, 364, 343, 158, 239, 89 ],
       "id": 1,
       "names": {
         "gba": "Doom",
@@ -14699,6 +14700,9 @@
       }
     },
     {
+      "enemies": [274, 259, 211,
+  240, 308,  75,
+  366],
       "id": 2,
       "names": {
         "gba": "Roulette",
@@ -14707,6 +14711,9 @@
       }
     },
     {
+      "enemies": [338, 240, 220,
+  383, 346, 328,
+  384, 351],
       "id": 3,
       "names": {
         "gba": "Tsunami",
@@ -14715,6 +14722,9 @@
       }
     },
     {
+      "enemies": [52,  50, 338,  96, 240,
+  220, 153, 383, 346, 271,
+  347, 292, 207, 254],
       "id": 4,
       "names": {
         "gba": "Aqua Breath",
@@ -14723,6 +14733,10 @@
       }
     },
     {
+      "enemies": [240, 331, 355, 347,
+  153, 383, 273, 140,
+  384, 178, 341, 172,
+  196],
       "id": 5,
       "names": {
         "gba": "Aero",
@@ -14731,6 +14745,9 @@
       }
     },
     {
+      "enemies": [106, 176, 240,
+  164, 345, 347,
+  309, 243, 329],
       "id": 6,
       "names": {
         "gba": "1000 Needles",
@@ -14739,6 +14756,7 @@
       }
     },
     {
+      "enemies": [374, 352, 119, 243],
       "id": 7,
       "names": {
         "gba": "Mighty Guard",
@@ -14747,6 +14765,9 @@
       }
     },
     {
+      "enemies": [240, 109, 188,
+  306, 347, 152,
+  383, 212],
       "id": 8,
       "names": {
         "gba": "Revenge Blast",
@@ -14755,6 +14776,9 @@
       }
     },
     {
+      "enemies": [323, 240, 200, 273,
+  140, 116, 178, 341,
+  245, 103],
       "id": 9,
       "names": {
         "gba": "White Wind",
@@ -14763,6 +14787,9 @@
       }
     },
     {
+      "enemies": [274, 108, 258, 240,
+  260, 331, 219, 252,
+  384, 343,  79],
       "id": 10,
       "names": {
         "gba": "Lv.5 Death",
@@ -14771,6 +14798,9 @@
       }
     },
     {
+      "enemies": [108, 240, 219, 252,
+  273, 186, 384, 337,
+   79],
       "id": 11,
       "names": {
         "gba": "Lv.4 Flare",
@@ -14779,6 +14809,9 @@
       }
     },
     {
+      "enemies": [108, 138, 240,
+  219, 273, 384,
+   79],
       "id": 12,
       "names": {
         "gba": "Lv.3 Confuse",
@@ -14787,6 +14820,7 @@
       }
     },
     {
+      "enemies": [240, 258, 316, 383, 263],
       "id": 13,
       "names": {
         "gba": "Reflect???",
@@ -14795,6 +14829,9 @@
       }
     },
     {
+      "enemies": [211, 240, 316,
+  257, 383, 273,
+  384, 337],
       "id": 14,
       "names": {
         "gba": "Lv.? Holy",
@@ -14803,6 +14840,9 @@
       }
     },
     {
+      "enemies": [171, 177, 240, 114,
+   97, 328, 190, 189,
+   15],
       "id": 15,
       "names": {
         "gba": "Traveler",
@@ -14811,6 +14851,7 @@
       }
     },
     {
+      "enemies": [353],
       "id": 16,
       "names": {
         "gba": "Force Field",
@@ -14819,6 +14860,9 @@
       }
     },
     {
+      "enemies": [86, 177, 240, 218,
+  248, 347, 128, 261,
+  384,  39],
       "id": 17,
       "names": {
         "gba": "Dischord",
@@ -14827,6 +14871,7 @@
       }
     },
     {
+      "enemies": [240, 249, 144, 372],
       "id": 18,
       "names": {
         "gba": "Bad Breath",
@@ -14835,6 +14880,7 @@
       }
     },
     {
+      "enemies": [97, 256, 142],
       "id": 19,
       "names": {
         "gba": "Transfusion",
@@ -14843,6 +14889,7 @@
       }
     },
     {
+      "enemies": [338, 240, 118, 174],
       "id": 20,
       "names": {
         "gba": "Rippler",
@@ -14851,6 +14898,8 @@
       }
     },
     {
+      "enemies": [240, 347, 352, 58,
+  193, 198,  30, 17],
       "id": 21,
       "names": {
         "gba": "Stone",
@@ -14859,6 +14908,7 @@
       }
     },
     {
+      "enemies": [240, 347, 354],
       "id": 22,
       "names": {
         "gba": "Quasar",
@@ -14867,6 +14917,7 @@
       }
     },
     {
+      "enemies": [333, 384],
       "id": 23,
       "names": {
         "gba": "Grand Delta",
@@ -14875,6 +14926,9 @@
       }
     },
     {
+      "enemies": [98,  6,  45, 240,
+  248, 73, 256,  75,
+  201],
       "id": 24,
       "names": {
         "gba": "Self-Destruct",
@@ -14905,7 +14959,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Zozo – Top of the central building after seeing Terra.",
+      "lvBonus": {
+        "gba": "Stamina +1",
+        "pixel": "Stamina +1",
+        "snes": "Stamina +1"
+      },
+      "mainSpell": "Judgment Bolt: Bathes all enemies in lightning.",
+      "spells": [
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Thunder",
+            "pixel": "Thunder",
+            "snes": "Bolt"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Thundara",
+            "pixel": "Thundara",
+            "snes": "Bolt 2"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Poison",
+            "pixel": "Poison",
+            "snes": "Poison"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 2,
@@ -14928,7 +15018,61 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Zozo – Top of the central building after seeing Terra.",
+      "lvBonus": {
+        "gba": "",
+        "pixel": "",
+        "snes": ""
+      },
+      "mainSpell": "Holy Aura: Gradually restores the party's HP.",
+      "spells": [
+        {
+          "multiplier": 4,
+          "names": {
+            "gba": "Cure",
+            "pixel": "Cure",
+            "snes": "Cure"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Cura",
+            "pixel": "Cura",
+            "snes": "Cure 2"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Regen",
+            "pixel": "Regen",
+            "snes": "Regen"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 4,
+          "names": {
+            "gba": "Poisona",
+            "pixel": "Poisona",
+            "snes": "Antidot"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Libra",
+            "pixel": "Libra",
+            "snes": "Scan"
+          },
+          "type": "gray"
+        }
+      ]
     },
     {
       "id": 3,
@@ -14951,7 +15095,52 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Zozo – Top of the central building after seeing Terra.",
+      "lvBonus": {
+        "gba": "HP +10%",
+        "pixel": "HP +10%",
+        "snes": "HP +10%"
+      },
+      "mainSpell": "Lunatic Voice: Silences all enemies.",
+      "spells": [
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Sleep",
+            "pixel": "Sleep",
+            "snes": "Sleep"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 8,
+          "names": {
+            "gba": "Silence",
+            "pixel": "Silence",
+            "snes": "Mute"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 7,
+          "names": {
+            "gba": "Slow",
+            "pixel": "Slow",
+            "snes": "Slow"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 6,
+          "names": {
+            "gba": "Fire",
+            "pixel": "Fire",
+            "snes": "Fire"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 4,
@@ -14974,7 +15163,45 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Zozo – Top of the central building after seeing Terra.",
+      "mainSpell": "Cat Rain: Confuses all enemies.",
+      "lvBonus": {
+        "gba": "Magic +1",
+        "pixel": "Magic +1",
+        "snes": "Magic +1"
+      },
+      "spells": [
+        {
+          "multiplier": 7,
+          "names": {
+            "gba": "Confuse",
+            "pixel": "Confuse",
+            "snes": "Muddle"
+          },
+          "type": "gray"
+        },
+
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Imp",
+            "pixel": "Imp",
+            "snes": "Imp"
+          },
+          "type": "gray"
+        },
+
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Float",
+            "pixel": "Float",
+            "snes": "Float"
+          },
+          "type": "gray"
+        }
+      ]
     },
     {
       "id": 5,
@@ -14997,7 +15224,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Magitek Research Facility, after defeating Ifrit and Shiva.",
+      "mainSpell": "Hellfire: Scorches all enemies in a fiery blaze.",
+      "lvBonus": {
+        "gba": "Strength +1",
+        "pixel": "Strength +1",
+        "snes": "Strength +1"
+      },
+      "spells": [
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Fire",
+            "pixel": "Fire",
+            "snes": "Fire"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Fira",
+            "pixel": "Fira",
+            "snes": "Fire 2"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Drain",
+            "pixel": "Drain",
+            "snes": "Drain"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 6,
@@ -15020,7 +15283,61 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Magitek Research Facility, after defeating Ifrit and Shiva.",
+      "mainSpell": "Diamond Dust: Envelops all enemies in an arctic chill.",
+      "lvBonus": {
+        "gba": "",
+        "pixel": "",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Blizzard",
+            "pixel": "Blizzard",
+            "snes": "Ice"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Blizzara",
+            "pixel": "Blizzara",
+            "snes": "Ice 2"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 4,
+          "names": {
+            "gba": "Rasp",
+            "pixel": "Rasp",
+            "snes": "Rasp"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 4,
+          "names": {
+            "gba": "Osmose",
+            "pixel": "Osmose",
+            "snes": "Osmose"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Cure",
+            "pixel": "Cure",
+            "snes": "Cure"
+          },
+          "type": "white"
+        }
+      ]
     },
     {
       "id": 7,
@@ -15043,7 +15360,61 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Magitek Research Facility, after defeating Number 024.",
+      "mainSpell": "Healing Horn: Cures party of most status ailments.",
+      "lvBonus": {
+        "gba": "",
+        "pixel": "",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 4,
+          "names": {
+            "gba": "Cura",
+            "pixel": "Cura",
+            "snes": "Cure 2"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Esuna",
+            "pixel": "Esuna",
+            "snes": "Remedy"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Dispel",
+            "pixel": "Dispel",
+            "snes": "Dispel"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Protect",
+            "pixel": "Protect",
+            "snes": "Safe"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Shell",
+            "pixel": "Shell",
+            "snes": "Shell"
+          },
+          "type": "gray"
+        }
+      ]
     },
     {
       "id": 8,
@@ -15066,7 +15437,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Magitek Research Facility, after defeating Number 024.",
+      "mainSpell": "Chaos Wave: Unleashes a tide of anger on enemies.",
+      "lvBonus": {
+        "gba": "Magic +1",
+        "pixel": "Magic +1",
+        "snes": "Magic +1"
+      },
+      "spells": [
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Fira",
+            "pixel": "Fira",
+            "snes": "Fire 2"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Thundara",
+            "pixel": "Thundara",
+            "snes": "Bolt 2"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Blizzara",
+            "pixel": "Blizzara",
+            "snes": "Ice 2"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 9,
@@ -15089,7 +15496,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Magitek Research Facility, after defeating Number 024.",
+      "lvBonus": {
+        "gba": "HP +10%",
+        "pixel": "HP +10%",
+        "snes": "HP +10%"
+      },
+      "mainSpell": "Demon Eye: Petrifies all enemies.",
+      "spells": [
+        {
+          "multiplier": 8,
+          "names": {
+            "gba": "Bio",
+            "pixel": "Bio",
+            "snes": "Bio"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Break",
+            "pixel": "Break",
+            "snes": "Break"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Death",
+            "pixel": "Death",
+            "snes": "Doom"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 10,
@@ -15112,7 +15555,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Magitek Research Facility, after defeating Number 024.",
+      "lvBonus": {
+        "gba": "MP +10%",
+        "pixel": "MP +10%",
+        "snes": "MP +10%"
+      },
+      "mainSpell": "Ghostly Veil: Turns all allies invisible.",
+      "spells": [
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Berserk",
+            "pixel": "Berserk",
+            "snes": "Bserk"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Vanish",
+            "pixel": "Vanish",
+            "snes": "Vanish"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Gravity",
+            "pixel": "Gravity",
+            "snes": "Demi"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 11,
@@ -15135,7 +15614,61 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Magitek Research Facility, after defeating Number 024.",
+      "lvBonus": {
+        "gba": "",
+        "pixel": "",
+        "snes": ""
+      },
+      "mainSpell": "Ruby Light: Casts Reflect on all allies.",
+      "spells": [
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Reflect",
+            "pixel": "Reflect",
+            "snes": "Reflect"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Haste",
+            "pixel": "Haste",
+            "snes": "Haste"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Shell",
+            "pixel": "Shell",
+            "snes": "Shell"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Protect",
+            "pixel": "Protect",
+            "snes": "Protect"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Teleport",
+            "pixel": "Teleport",
+            "snes": "Warp"
+          },
+          "type": "gray"
+        }
+      ]
     },
     {
       "id": 12,
@@ -15158,7 +15691,52 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Magitek Research Facility, after defeating Number 024.",
+      "lvBonus": {
+        "gba": "Strength +2",
+        "pixel": "Strength +2",
+        "snes": "Strength +2"
+      },
+      "mainSpell": "Breach Blast: Slams all enemies with giant bubbles.",
+      "spells": [
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Fire",
+            "pixel": "Fire",
+            "snes": "Fire"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Blizzard",
+            "pixel": "Blizzard",
+            "snes": "Ice"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Thunder",
+            "pixel": "Thunder",
+            "snes": "Bolt"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Raise",
+            "pixel": "Raise",
+            "snes": "Life"
+          },
+          "type": "white"
+        }
+      ]
     },
     {
       "id": 13,
@@ -15181,7 +15759,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Auction House in Jidoor, bid 20,000 gil.",
+      "lvBonus": {
+        "gba": "Stamina +2",
+        "pixel": "Stamina +2",
+        "snes": "Stamina +2"
+      },
+      "mainSpell": "Earthen Wall: Protects party from physical attacks.",
+      "spells": [
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Protect",
+            "pixel": "Protect",
+            "snes": "Protect"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Stop",
+            "pixel": "Stop",
+            "snes": "Stop"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Cura",
+            "pixel": "Cura",
+            "snes": "Cure 2"
+          },
+          "type": "white"
+        }
+      ]
     },
     {
       "id": 14,
@@ -15204,7 +15818,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Auction House in Jidoor, bid 10,000 gil.",
+      "mainSpell": "Magic Shield: Increases the party's magic defense.",
+      "lvBonus": {
+        "gba": "Magic +2",
+        "pixel": "Magic +2",
+        "snes": "Magic +2"
+      },
+      "spells": [
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Rasp",
+            "pixel": "Rasp",
+            "snes": "Rasp"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 15,
+          "names": {
+            "gba": "Osmose",
+            "pixel": "Osmose",
+            "snes": "Osmose"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Shell",
+            "pixel": "Shell",
+            "snes": "Shell"
+          },
+          "type": "gray"
+        }
+      ]
     },
     {
       "id": 15,
@@ -15227,7 +15877,61 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Tzen, buy from thief behind Relic Shop for 3,000 (World of Balance) or 10 (World of Ruin) gil.",
+      "mainSpell": "Angel Feathers: Restores HP to all allies.",
+      "lvBonus": {
+        "gba": "",
+        "pixel": "",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Raise",
+            "pixel": "Raise",
+            "snes": "Life"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Cure",
+            "pixel": "Cure",
+            "snes": "Cure"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 8,
+          "names": {
+            "gba": "Cura",
+            "pixel": "Cura",
+            "snes": "Cure 2"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Regen",
+            "pixel": "Regen",
+            "snes": "Regen"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 4,
+          "names": {
+            "gba": "Esuna",
+            "pixel": "Esuna",
+            "snes": "Remedy"
+          },
+          "type": "white"
+        }
+      ]
     },
     {
       "id": 16,
@@ -15250,7 +15954,61 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Solitary Island, on the beach after acquiring the Falcon.",
+      "mainSpell": "Sonic Dive: Lifts the party up for an aerial attack.",
+      "lvBonus": {
+        "gba": "",
+        "pixel": "Agility +1",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Haste",
+            "pixel": "Haste",
+            "snes": "Haste"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Slow",
+            "pixel": "Slow",
+            "snes": "Slow"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Hastega",
+            "pixel": "Hastega",
+            "snes": "Haste 2"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Slowga",
+            "pixel": "Slowga",
+            "snes": "Slow 2"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Float",
+            "pixel": "Float",
+            "snes": "Float"
+          },
+          "type": "gray"
+        }
+      ]
     },
     {
       "id": 17,
@@ -15273,7 +16031,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Mobliz, received from orphan boy after defeating Humbaba.",
+      "mainSpell": "Howling Moon: Creates illusionary images of the party.",
+      "lvBonus": {
+        "gba": "MP +30%",
+        "pixel": "MP +30%",
+        "snes": "MP +30%"
+      },
+      "spells": [
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Teleport",
+            "pixel": "Teleport",
+            "snes": "Warp"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Banish",
+            "pixel": "Banish",
+            "snes": "X-Zone"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Stop",
+            "pixel": "Stop",
+            "snes": "Stop"
+          },
+          "type": "gray"
+        }
+      ]
     },
     {
       "id": 18,
@@ -15296,7 +16090,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Narshe Cliffs, defeat Valigarmanda.",
+      "mainSpell": "Tri-Disaster: Hits enemies with fire, ice and lightning.",
+      "lvBonus": {
+        "gba": "Magic +2",
+        "pixel": "Magic +2",
+        "snes": "Magic +2"
+      },
+      "spells": [
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Firaga",
+            "pixel": "Firaga",
+            "snes": "Fire 3"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Blizzaga",
+            "pixel": "Blizzaga",
+            "snes": "Ice 3"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Thundaga",
+            "pixel": "Thundaga",
+            "snes": "Bolt 3"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 19,
@@ -15319,7 +16149,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Yeti's Cave, inside the eye of the bone carving before fighting Yeti.",
+      "mainSpell": "Abyssal Maw: Crushes enemies with seismic waves.",
+      "lvBonus": {
+        "gba": "HP +30%",
+        "pixel": "HP +30%",
+        "snes": "HP +30%"
+      },
+      "spells": [
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Quake",
+            "pixel": "Quake",
+            "snes": "Quake"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Graviga",
+            "pixel": "Graviga",
+            "snes": "Quatr"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Tornado",
+            "pixel": "Tornado",
+            "snes": "W. Wind"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 20,
@@ -15342,7 +16208,61 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Owzer's Mansion after defeating Chadarnook.",
+      "mainSpell": "Alluring Embrace: Restores HP to all allies.",
+      "lvBonus": {
+        "gba": "Stamina +2",
+        "pixel": "Stamina +2",
+        "snes": "Stamina +2"
+      },
+      "spells": [
+        {
+          "multiplier": 25,
+          "names": {
+            "gba": "Cure",
+            "pixel": "Cure",
+            "snes": "Cure"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 16,
+          "names": {
+            "gba": "Cura",
+            "pixel": "Cura",
+            "snes": "Cure 2"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Curaga",
+            "pixel": "Curaga",
+            "snes": "Cure 3"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Regen",
+            "pixel": "Regen",
+            "snes": "Regen"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Esuna",
+            "pixel": "Esuna",
+            "snes": "Remedy"
+          },
+          "type": "white"
+        }
+      ]
     },
     {
       "id": 21,
@@ -15365,7 +16285,61 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Doma Castle, in the throne room after defeating Wrexsoul and escaping Dreamscape.",
+      "mainSpell": "Divine Judgment: Sears enemies with a beam of holy light.",
+      "lvBonus": {
+        "gba": "",
+        "pixel": "Strength +2",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Holy",
+            "pixel": "Holy",
+            "snes": "Pearl"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Shell",
+            "pixel": "Shell",
+            "snes": "Shell"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Protect",
+            "pixel": "Protect",
+            "snes": "Protect"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Dispel",
+            "pixel": "Dispel",
+            "snes": "Dispel"
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 15,
+          "names": {
+            "gba": "Esuna",
+            "pixel": "Esuna",
+            "snes": "Remedy"
+          },
+          "type": "white"
+        }
+      ]
     },
     {
       "id": 22,
@@ -15388,7 +16362,61 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Kohlingen, automatically received after completing Phoenix Cave.",
+      "mainSpell": "Flames of Rebirth: Revives all KO'd allies.",
+      "lvBonus": {
+        "gba": "",
+        "pixel": "",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Raise",
+            "pixel": "Raise",
+            "snes": "Life"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Arise",
+            "pixel": "Arise",
+            "snes": "Life 2"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Reraise",
+            "pixel": "Reraise",
+            "snes": "Life 3"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Curaga",
+            "pixel": "Curaga",
+            "snes": "Cure 3"
+          },
+          "type": "white"
+        },
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Firaga",
+            "pixel": "Firaga",
+            "snes": "Fire 3"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 23,
@@ -15411,7 +16439,25 @@
         "gba": true,
         "pixel": true,
         "snes": true
-      }
+      },
+      "found": "Ancient Castle, touch the petrified Odin in the throne room.",
+      "mainSpell": "Zantetsuken: Cleaves all enemies in two.",
+      "lvBonus": {
+        "gba": "Speed +1",
+        "pixel": "Agility +2",
+        "snes": "Speed +1"
+      },
+      "spells": [
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Meteor",
+            "pixel": "Meteor",
+            "snes": "Meteor"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 24,
@@ -15434,7 +16480,25 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Defeat Deathgaze flying across the overworld's sky.",
+      "mainSpell": "Mega Flare: Hits all enemies with a nuclear blast.",
+      "lvBonus": {
+        "gba": "HP +50%",
+        "pixel": "HP +50%",
+        "snes": "HP +50%"
+      },
+      "spells": [
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Flare",
+            "pixel": "Flare",
+            "snes": "Flare"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 25,
@@ -15457,7 +16521,25 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Narshe, inside weapons shop (Locke required in party).",
+      "mainSpell": "Metamorphose: Turns one enemy into an item.",
+      "lvBonus": {
+        "gba": "",
+        "pixel": "",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Ultima",
+            "pixel": "Ultima",
+            "snes": "Ultima"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 26,
@@ -15480,7 +16562,34 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Defeat the eight legendary dragons, received automatically when the eighth is defeated.",
+      "mainSpell": "Cleansing: Greatly damages all enemies and allies.",
+      "lvBonus": {
+        "gba": "MP +50%",
+        "pixel": "MP +50%",
+        "snes": "MP +50%"
+      },
+      "spells": [
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Meltdown",
+            "pixel": "Meltdown",
+            "snes": "Merton"
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Meteor",
+            "pixel": "Meteor",
+            "snes": "Meteor"
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 27,
@@ -15503,7 +16612,25 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Ancient Castle, touch the petrified Queen while in possession of Odin's magicite.",
+      "mainSpell": "Shin-Zantetsuken: Cleaves all enemies in two.",
+      "lvBonus": {
+        "gba": "Strength +2",
+        "pixel": "Agility +2",
+        "snes": "Strength +2"
+      },
+      "spells": [
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Quick",
+            "pixel": "Quick",
+            "snes": "Quick"
+          },
+          "type": "gray"
+        }
+      ]
     },
     {
       "id": 28,
@@ -15526,7 +16653,25 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Ferry between South Figaro and Nikeah after acquiring the Falcon.",
+      "mainSpell": "Tidal Wave: Deluges enemies with a giant wave.",
+      "lvBonus": {
+        "gba": "Stamina +2",
+        "pixel": "",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 2,
+          "names": {
+            "gba": "Flood",
+            "pixel": "",
+            "snes": ""
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 29,
@@ -15549,7 +16694,43 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Defeating the Gigantuar in the desert near Maranda as a fixed encounter after defeating ten Cactuars.",
+      "mainSpell": "1000 Needles/10,000 Needles?: Damages all enemies. Or, sometimes...",
+      "lvBonus": {
+        "gba": "Speed +2",
+        "pixel": "",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 20,
+          "names": {
+            "gba": "Teleport",
+            "pixel": "",
+            "snes": ""
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 10,
+          "names": {
+            "gba": "Vanish",
+            "pixel": "",
+            "snes": ""
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Hastega",
+            "pixel": "",
+            "snes": ""
+          },
+          "type": "gray"
+        }
+      ]
     },
     {
       "id": 30,
@@ -15572,7 +16753,34 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Dragons' Den, after defeating Kaiser Dragon.",
+      "mainSpell": "Dark Messenger: Critically wounds all enemies.",
+      "lvBonus": {
+        "gba": "HP +100%",
+        "pixel": "",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Graviga",
+            "pixel": "",
+            "snes": ""
+          },
+          "type": "black"
+        },
+        {
+          "multiplier": 3,
+          "names": {
+            "gba": "Gravija",
+            "pixel": "",
+            "snes": ""
+          },
+          "type": "black"
+        }
+      ]
     },
     {
       "id": 31,
@@ -15595,7 +16803,34 @@
         "gba": false,
         "pixel": false,
         "snes": false
-      }
+      },
+      "found": "Dragon's Neck Coliseum, bet Excalipoor from Auction House.",
+      "mainSpell": "Excalipoor/Excalibur/Masamune/Enkidu: Summons a legendary swordsman.",
+      "lvBonus": {
+        "gba": "Strength +2",
+        "pixel": "",
+        "snes": ""
+      },
+      "spells": [
+        {
+          "multiplier": 1,
+          "names": {
+            "gba": "Quick",
+            "pixel": "",
+            "snes": ""
+          },
+          "type": "gray"
+        },
+        {
+          "multiplier": 5,
+          "names": {
+            "gba": "Valor",
+            "pixel": "",
+            "snes": ""
+          },
+          "type": "gray"
+        }
+      ]
     }
   ],
   "treasure": [
@@ -15617,7 +16852,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Clock"
             }
           ]
         },
@@ -15636,7 +16872,8 @@
                 "gba": "Potion",
                 "pixel": "Potion",
                 "snes": "Tonic"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Battle Tactics (middle room)",
@@ -15645,7 +16882,8 @@
                 "gba": "Sleeping Bag",
                 "pixel": "Sleeping Bag",
                 "snes": "Sleeping Bag"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Environmental Science (east room)",
@@ -15654,7 +16892,8 @@
                 "gba": "Potion",
                 "pixel": "Potion",
                 "snes": "Tonic"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Environmental Science (east room)",
@@ -15663,7 +16902,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture"
-              }
+              },
+              "type": "Pot"
             }
           ]
         },
@@ -15682,7 +16922,8 @@
                 "gba": "Potion",
                 "pixel": "Potion",
                 "snes": "Tonic"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Eastern shop",
@@ -15691,7 +16932,8 @@
                 "gba": "Antidote",
                 "pixel": "Antidote",
                 "snes": "Antidote"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Western shop",
@@ -15700,7 +16942,8 @@
                 "gba": "Gold Needle",
                 "pixel": "Gold Needle",
                 "snes": "Soft"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northern tower",
@@ -15709,7 +16952,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -15728,7 +16972,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Barrel"
             }
           ]
         },
@@ -15747,7 +16992,8 @@
                 "gba": "Potion",
                 "pixel": "Potion",
                 "snes": "Tonic"
-              }
+              },
+              "type": "Bucket"
             },
             {
               "location": "Basement behind rich man’s house",
@@ -15756,7 +17002,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Clock"
             },
             {
               "location": "Hidden tunnel below rich house",
@@ -15765,7 +17012,8 @@
                 "gba": "Hyper Wrist",
                 "pixel": "Hyper Wrist",
                 "snes": "Hyper Wrist"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Hidden tunnel below rich house",
@@ -15774,7 +17022,8 @@
                 "gba": "Hermes Sandals",
                 "pixel": "Hermes Sandals",
                 "snes": "RunningShoes"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Clock room below rich house",
@@ -15783,7 +17032,8 @@
                 "gba": "500 Gil",
                 "pixel": "500 Gil",
                 "snes": "500 GP"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Clock room below rich house",
@@ -15792,7 +17042,8 @@
                 "gba": "1000 Gil",
                 "pixel": "1000 Gil",
                 "snes": "1000 GP"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Clock room below rich house",
@@ -15801,7 +17052,8 @@
                 "gba": "1500 Gil",
                 "pixel": "1500 Gil",
                 "snes": "1500 GP"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Clock room below rich house",
@@ -15810,7 +17062,8 @@
                 "gba": "Empty",
                 "pixel": "Empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -15829,7 +17082,8 @@
                 "gba": "Potion",
                 "pixel": "Potion",
                 "snes": "Tonic"
-              }
+              },
+              "type": "Bucket"
             }
           ]
         },
@@ -15848,7 +17102,8 @@
                 "gba": "Main Gauche",
                 "pixel": "Main Gauche",
                 "snes": "Guardian"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Hidden passage NE of main cave",
@@ -15857,7 +17112,8 @@
                 "gba": "Gigas Glove",
                 "pixel": "Gigas Glove",
                 "snes": "Atlas Armlet"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Thru first cave after bridge",
@@ -15866,7 +17122,8 @@
                 "gba": "Tent",
                 "pixel": "Tent",
                 "snes": "Tent"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Cave after boss fight",
@@ -15875,7 +17132,8 @@
                 "gba": "Tent",
                 "pixel": "Tent",
                 "snes": "Tent"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -15894,7 +17152,8 @@
                 "gba": "Green Cherry",
                 "pixel": "Green Cherry",
                 "snes": "Green Cherry"
-              }
+              },
+              "type": "Pot"
             },
             {
               "location": "Banon’s room",
@@ -15903,7 +17162,8 @@
                 "gba": "Hi-Potion",
                 "pixel": "Hi-Potion",
                 "snes": "Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Terra’s room",
@@ -15912,7 +17172,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Storeroom",
@@ -15921,7 +17182,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Storeroom",
@@ -15930,7 +17192,8 @@
                 "gba": "Air Knife",
                 "pixel": "Air Knife",
                 "snes": "Air Lancet"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Storeroom",
@@ -15939,7 +17202,8 @@
                 "gba": "Knight’s Code",
                 "pixel": "Knight’s Code",
                 "snes": "True Knight"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "North wall of storeroom",
@@ -15948,7 +17212,8 @@
                 "gba": "Antidote",
                 "pixel": "Antidote",
                 "snes": "Antidote"
-              }
+              },
+              "type": "Bucket"
             },
             {
               "location": "North wall of storeroom",
@@ -15957,7 +17222,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture"
-              }
+              },
+              "type": "Pot"
             },
             {
               "location": "Passage in east wall of storeroom",
@@ -15966,7 +17232,8 @@
                 "gba": "White Cape",
                 "pixel": "White Cape",
                 "snes": "White Cape"
-              }
+              },
+              "type": "Chest"
             }
           ]
         }
@@ -15990,7 +17257,8 @@
                 "gba": "Star Pendant",
                 "pixel": "Star Pendant",
                 "snes": "Star Pendant"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwestern tent, right side",
@@ -15999,7 +17267,8 @@
                 "gba": "Mythril Glove",
                 "pixel": "Mythril Glove",
                 "snes": "MithrilGlove"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwestern tent, left side",
@@ -16008,7 +17277,8 @@
                 "gba": "Green Beret",
                 "pixel": "Green Beret",
                 "snes": "Green Beret"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Behind the southwestern tent",
@@ -16017,7 +17287,8 @@
                 "gba": "Barrier Ring",
                 "pixel": "Barrier Ring",
                 "snes": "Barrier Ring"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -16036,7 +17307,8 @@
                 "gba": "Remedy",
                 "pixel": "Remedy",
                 "snes": "Remedy"
-              }
+              },
+              "type": "Pot"
             }
           ]
         },
@@ -16055,7 +17327,8 @@
                 "gba": "Tent",
                 "pixel": "Tent",
                 "snes": "Tent"
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "West end of the dining car",
@@ -16064,7 +17337,8 @@
                 "gba": "Earring",
                 "pixel": "Earring",
                 "snes": "Earrings"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "2nd suite, floor in NW corner",
@@ -16073,7 +17347,8 @@
                 "gba": "Tent",
                 "pixel": "Tent",
                 "snes": "Tent"
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "4th suite, rightmost",
@@ -16082,7 +17357,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "4th suite, mid-right",
@@ -16091,7 +17367,8 @@
                 "gba": "Sniper Eye",
                 "pixel": "Sniper Eye",
                 "snes": "Sniper Sight"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "4th suite, mid-left",
@@ -16100,7 +17377,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "4th suite, leftmost",
@@ -16109,7 +17387,8 @@
                 "gba": "Hyper Wrist",
                 "pixel": "Hyper Wrist",
                 "snes": "Hyper Wrist"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -16128,7 +17407,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Clock"
             }
           ]
         },
@@ -16147,7 +17427,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Take second right branch",
@@ -16156,7 +17437,8 @@
                 "gba": "Green Beret",
                 "pixel": "Green Beret",
                 "snes": "Green Beret"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -16175,7 +17457,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Clock"
             }
           ]
         }
@@ -16199,7 +17482,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Hidden sub-basement, S of X-Potion",
@@ -16208,7 +17492,8 @@
                 "gba": "Ribbon",
                 "pixel": "Ribbon",
                 "snes": "Ribbon"
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "Hidden sub-basement, south",
@@ -16217,7 +17502,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Escape tunnel, west",
@@ -16226,7 +17512,8 @@
                 "gba": "Iron Armor",
                 "pixel": "Iron Armor",
                 "snes": "Iron Armor"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Escape tunnel, southwest",
@@ -16235,7 +17522,8 @@
                 "gba": "Earring",
                 "pixel": "Earring",
                 "snes": "Earrings"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Escape tunnel, northeast",
@@ -16244,7 +17532,8 @@
                 "gba": "Great Sword",
                 "pixel": "Great Sword",
                 "snes": "RegalCutlass"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Escape tunnel, northeast",
@@ -16253,7 +17542,8 @@
                 "gba": "Heavy Shield",
                 "pixel": "Heavy Shield",
                 "snes": "Heavy Shld"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -16272,7 +17562,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             }
           ]
         }
@@ -16296,7 +17587,8 @@
                 "gba": "Hyper Wrist",
                 "pixel": "Hyper Wrist",
                 "snes": "Hyper Wrist"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Treasure house, north",
@@ -16305,7 +17597,8 @@
                 "gba": "Thief’s Bracer",
                 "pixel": "Thief’s Bracer",
                 "snes": "Sneak Ring"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Treasure house, northeast",
@@ -16314,7 +17607,8 @@
                 "gba": "Reflect Ring",
                 "pixel": "Reflect Ring",
                 "snes": "Wall Ring"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Treasure house, southwest",
@@ -16323,7 +17617,8 @@
                 "gba": "Thief’s Knife",
                 "pixel": "Thief’s Knife",
                 "snes": "ThiefKnife"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Treasure house, south",
@@ -16332,7 +17627,8 @@
                 "gba": "Earring",
                 "pixel": "Earring",
                 "snes": "Earrings"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Treasure house, southeast",
@@ -16341,7 +17637,8 @@
                 "gba": "5000 Gil",
                 "pixel": "5000 Gil",
                 "snes": "5000 GP"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Elder’s house",
@@ -16350,7 +17647,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Clock"
             }
           ]
         },
@@ -16369,7 +17667,8 @@
                 "gba": "Green Beret",
                 "pixel": "Green Beret",
                 "snes": "Green Beret"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Rachel’s house",
@@ -16378,7 +17677,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Clock"
             }
           ]
         },
@@ -16397,7 +17697,8 @@
                 "gba": "Hero’s Ring",
                 "pixel": "Hero’s Ring",
                 "snes": "Hero Ring"
-              }
+              },
+              "type": "Pot"
             }
           ]
         },
@@ -16416,7 +17717,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture"
-              }
+              },
+              "type": "Pot"
             }
           ]
         },
@@ -16435,7 +17737,8 @@
                 "gba": "Chainsaw",
                 "pixel": "Chainsaw",
                 "snes": "Chain Saw"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Storeroom above the Cafe",
@@ -16444,7 +17747,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "\"Armor Shop\" (NW of town)",
@@ -16453,7 +17757,8 @@
                 "gba": "Potion",
                 "pixel": "Potion",
                 "snes": "Tonic"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Lower storeroom in big tower",
@@ -16462,7 +17767,8 @@
                 "gba": "Brigand’s Glove",
                 "pixel": "Brigand’s Glove",
                 "snes": "Thief Glove"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Western tower, NW corner",
@@ -16471,7 +17777,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture"
-              }
+              },
+              "type": "Pot"
             },
             {
               "location": "Western tower, NW corner",
@@ -16480,7 +17787,8 @@
                 "gba": "Hi-Potion",
                 "pixel": "Hi-Potion",
                 "snes": "Potion"
-              }
+              },
+              "type": "Pot"
             },
             {
               "location": "Upper storeroom in big tower",
@@ -16489,7 +17797,8 @@
                 "gba": "Burning Fist",
                 "pixel": "Burning Fist",
                 "snes": "Fire Knuckle"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Top of big tower",
@@ -16498,7 +17807,8 @@
                 "gba": "Hermes Sandals",
                 "pixel": "Hermes Sandals",
                 "snes": "RunningShoes"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Top of big tower",
@@ -16507,7 +17817,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -16526,7 +17837,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture"
-              }
+              },
+              "type": "Pot"
             },
             {
               "location": "Armor Shop",
@@ -16535,7 +17847,8 @@
                 "gba": "Empty",
                 "pixel": "Empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Armor Shop",
@@ -16544,7 +17857,8 @@
                 "gba": "Empty",
                 "pixel": "Empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Outside the Inn",
@@ -16553,7 +17867,8 @@
                 "gba": "Hi-Potion",
                 "pixel": "Hi-Potion",
                 "snes": "Potion"
-              }
+              },
+              "type": "Barrel"
             },
             {
               "location": "Cafe / Relic Shop",
@@ -16562,7 +17877,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Clock"
             }
           ]
         },
@@ -16581,7 +17897,8 @@
                 "gba": "Holy Water",
                 "pixel": "Holy Water",
                 "snes": "Revivify"
-              }
+              },
+              "type": "Crate"
             },
             {
               "location": "South of the eastern exit",
@@ -16590,7 +17907,8 @@
                 "gba": "Remedy",
                 "pixel": "Remedy",
                 "snes": "Remedy"
-              }
+              },
+              "type": "Crate"
             }
           ]
         },
@@ -16609,7 +17927,8 @@
                 "gba": "Flametongue",
                 "pixel": "Flametongue",
                 "snes": "Flame Sabre"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "South of entrance (use R tube)",
@@ -16618,7 +17937,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "West of first conveyor ride",
@@ -16627,7 +17947,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "East of second conveyor ride",
@@ -16636,7 +17957,8 @@
                 "gba": "Thunder Blade",
                 "pixel": "Thunder Blade",
                 "snes": "ThunderBlade"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Before third conveyor ride",
@@ -16645,7 +17967,8 @@
                 "gba": "Remedy",
                 "pixel": "Remedy",
                 "snes": "Remedy"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "After third ride, southwest",
@@ -16654,7 +17977,8 @@
                 "gba": "Dragoon Boots",
                 "pixel": "Dragoon Boots",
                 "snes": "DragoonBoots"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Catwalk north of DragoonBoots",
@@ -16663,7 +17987,8 @@
                 "gba": "Golden Shield",
                 "pixel": "Golden Shield",
                 "snes": "Gold Shld"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwest corner, through door",
@@ -16672,7 +17997,8 @@
                 "gba": "Golden Helm",
                 "pixel": "Golden Helm",
                 "snes": "Gold Helmet"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "South wall, through hidden door",
@@ -16681,7 +18007,8 @@
                 "gba": "Golden Armor",
                 "pixel": "Golden Armor",
                 "snes": "Gold Armor"
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "Southeast corner, upstairs",
@@ -16690,7 +18017,8 @@
                 "gba": "Tent",
                 "pixel": "Tent",
                 "snes": "Tent"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Pipes by crates in NE of 2nd room",
@@ -16699,7 +18027,8 @@
                 "gba": "Icebrand",
                 "pixel": "Icebrand",
                 "snes": "Blizzard"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Pipes by crates in NE of 2nd room",
@@ -16708,7 +18037,8 @@
                 "gba": "Zephyr Cloak",
                 "pixel": "Zephyr Cloak",
                 "snes": "Zephyr Cape"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -16727,7 +18057,8 @@
                 "gba": "Stoneblade",
                 "pixel": "Stoneblade",
                 "snes": "Break Blade"
-              }
+              },
+              "type": "Hidden"
             }
           ]
         },
@@ -16746,7 +18077,8 @@
                 "gba": "empty",
                 "pixel": "empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -16765,7 +18097,8 @@
                 "gba": "Assassin’s Dagger",
                 "pixel": "Assassin’s Dagger",
                 "snes": "Assassin"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Second cave",
@@ -16774,7 +18107,8 @@
                 "gba": "Kazekiri",
                 "pixel": "Kazekiri",
                 "snes": "Tempest"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Moving bridge cave, northeast",
@@ -16783,7 +18117,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Moving bridge cave, southwest",
@@ -16792,7 +18127,8 @@
                 "gba": "Heiji’s Jitte",
                 "pixel": "Heiji’s Jitte",
                 "snes": "Coin Toss"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwest corner of lava cave",
@@ -16801,7 +18137,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Lava island (fall off bridge)",
@@ -16810,7 +18147,8 @@
                 "gba": "Genji Glove",
                 "pixel": "Genji Glove",
                 "snes": "Genji Glove"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Save point room",
@@ -16819,7 +18157,8 @@
                 "gba": "Tent",
                 "pixel": "Tent",
                 "snes": "Tent"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "1S, 1W from grand stair, in floor",
@@ -16828,7 +18167,8 @@
                 "gba": "Invisiblity Scroll",
                 "pixel": "Invisiblity Scroll",
                 "snes": "Invis Edge"
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "6S from Invis Edge, in floor",
@@ -16837,7 +18177,8 @@
                 "gba": "Gold Needle",
                 "pixel": "Gold Needle",
                 "snes": "Soft (claims to be Remedy)"
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "South of grand stairway",
@@ -16846,7 +18187,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "3N from Ether, in floor",
@@ -16855,7 +18197,8 @@
                 "gba": "293 Gil",
                 "pixel": "293 Gil",
                 "snes": "293 GP (claims to be 2000 GP)"
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "3S, 3E from grand stair, in floor",
@@ -16864,7 +18207,8 @@
                 "gba": "Water Scroll",
                 "pixel": "Water Scroll",
                 "snes": "Water Edge (“Water Skean”)"
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "Northeast of grand stairway",
@@ -16873,7 +18217,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Treasure room, west chest",
@@ -16882,7 +18227,8 @@
                 "gba": "Magicite Shard",
                 "pixel": "Magicite Shard",
                 "snes": "Magicite"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Treasure room, northwest chest",
@@ -16891,7 +18237,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Treasure room, north chest",
@@ -16900,7 +18247,8 @@
                 "gba": "Magicite Shard",
                 "pixel": "Magicite Shard",
                 "snes": "Magicite"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Treasure room, northeast chest",
@@ -16909,7 +18257,8 @@
                 "gba": "Ultimate Weapon",
                 "pixel": "Ultimate Weapon",
                 "snes": "Atma Weapon"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northeast corner of lava cave",
@@ -16918,7 +18267,8 @@
                 "gba": "Magicite Shard",
                 "pixel": "Magicite Shard",
                 "snes": "Magicite"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -16937,7 +18287,8 @@
                 "gba": "Alarm Earring",
                 "pixel": "Alarm Earring",
                 "snes": "Back Guard"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwest storeroom",
@@ -16946,7 +18297,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "West barracks",
@@ -16955,7 +18307,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "East bedroom",
@@ -16964,7 +18317,8 @@
                 "gba": "Gale Hairpin",
                 "pixel": "Gale Hairpin",
                 "snes": "Gale Hairpin"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "East bathroom",
@@ -16973,7 +18327,8 @@
                 "gba": "Holy Water",
                 "pixel": "Holy Water",
                 "snes": "Revivify"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -16992,7 +18347,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "North wall",
@@ -17001,7 +18357,8 @@
                 "gba": "Angel Wings",
                 "pixel": "Angel Wings",
                 "snes": "Cherub Down"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "West wall",
@@ -17010,7 +18367,8 @@
                 "gba": "8000 Gil",
                 "pixel": "8000 Gil",
                 "snes": "8000 GP"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northwest of center",
@@ -17019,7 +18377,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "To the west of the buckets",
@@ -17028,7 +18387,8 @@
                 "gba": "Reflect Ring",
                 "pixel": "Reflect Ring",
                 "snes": "Wall Ring"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Easternmost",
@@ -17037,7 +18397,8 @@
                 "gba": "13000 Gil",
                 "pixel": "13000 Gil",
                 "snes": "13000 GP"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Center of the room",
@@ -17046,7 +18407,8 @@
                 "gba": "Hermes Sandals",
                 "pixel": "Hermes Sandals",
                 "snes": "RunningShoes"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwest of center",
@@ -17055,7 +18417,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southeastern",
@@ -17064,7 +18427,8 @@
                 "gba": "20000 Gil",
                 "pixel": "20000 Gil",
                 "snes": "20000 GP"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwestern",
@@ -17073,7 +18437,8 @@
                 "gba": "Angel Ring",
                 "pixel": "Angel Ring",
                 "snes": "Cure Ring"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "South wall",
@@ -17082,7 +18447,8 @@
                 "gba": "Alarm Earring",
                 "pixel": "Alarm Earring",
                 "snes": "Back Guard"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "I don’t know why either...",
@@ -17091,7 +18457,8 @@
                 "gba": "Flametongue",
                 "pixel": "Flametongue",
                 "snes": "Flame Sabre"
-              }
+              },
+              "type": "Stove"
             },
             {
               "location": "Southeast corner of the room",
@@ -17100,7 +18467,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Hidden"
             }
           ]
         },
@@ -17119,7 +18487,8 @@
                 "gba": "Teleport Stone",
                 "pixel": "Teleport Stone",
                 "snes": "Warp Stone"
-              }
+              },
+              "type": "Crate"
             }
           ]
         },
@@ -17138,7 +18507,8 @@
                 "gba": "Eye Drops",
                 "pixel": "Eye Drops",
                 "snes": "Eyedrop"
-              }
+              },
+              "type": "Barrel"
             },
             {
               "location": "Next to the Relic Shop",
@@ -17147,7 +18517,8 @@
                 "gba": "Gold Needle",
                 "pixel": "Gold Needle",
                 "snes": "Soft"
-              }
+              },
+              "type": "Barrel"
             },
             {
               "location": "Next to Strago’s house",
@@ -17156,7 +18527,8 @@
                 "gba": "Green Cherry",
                 "pixel": "Green Cherry",
                 "snes": "Green Cherry"
-              }
+              },
+              "type": "Barrel"
             },
             {
               "location": "Next to mayor’s house",
@@ -17165,7 +18537,8 @@
                 "gba": "Echo Screen",
                 "pixel": "Echo Screen",
                 "snes": "Echo Screen"
-              }
+              },
+              "type": "Barrel"
             },
             {
               "location": "Next to the Inn",
@@ -17174,7 +18547,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Barrel"
             },
             {
               "location": "Strago’s house, W of upstairs table",
@@ -17183,7 +18557,8 @@
                 "gba": "Memento Ring",
                 "pixel": "Memento Ring",
                 "snes": "Memento Ring"
-              }
+              },
+              "type": "Hidden"
             }
           ]
         },
@@ -17202,7 +18577,8 @@
                 "gba": "Flame Rod",
                 "pixel": "Flame Rod",
                 "snes": "Fire Rod"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Third door to the right",
@@ -17211,7 +18587,8 @@
                 "gba": "Ice Rod",
                 "pixel": "Ice Rod",
                 "snes": "Ice Rod"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17230,7 +18607,8 @@
                 "gba": "Healing Rod",
                 "pixel": "Healing Rod",
                 "snes": "Heal Rod"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Go north from north trapdoor",
@@ -17239,7 +18617,8 @@
                 "gba": "Chocobo Suit",
                 "pixel": "Chocobo Suit",
                 "snes": "Chocobo Suit"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Go west from north trapdoor",
@@ -17248,7 +18627,8 @@
                 "gba": "Tabby Suit",
                 "pixel": "Tabby Suit",
                 "snes": "Tabby Suit"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Go through eastern trapdoor",
@@ -17257,7 +18637,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17276,7 +18657,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Clock"
             },
             {
               "location": "Barracks",
@@ -17285,7 +18667,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Cyan’s room",
@@ -17294,7 +18677,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Storeroom (SE on castle walls)",
@@ -17303,7 +18687,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Storeroom (SE on castle walls)",
@@ -17312,7 +18697,8 @@
                 "gba": "Prayer Beads",
                 "pixel": "Prayer Beads",
                 "snes": "Beads"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17331,7 +18717,8 @@
                 "gba": "Murasame",
                 "pixel": "Murasame",
                 "snes": "Murasame"
-              }
+              },
+              "type": "Orb"
             },
             {
               "location": "SE of the first warp tunnel",
@@ -17340,7 +18727,8 @@
                 "gba": "Sasuke",
                 "pixel": "Sasuke",
                 "snes": "Hardened"
-              }
+              },
+              "type": "Orb"
             },
             {
               "location": "Northeast of save point cave",
@@ -17349,7 +18737,8 @@
                 "gba": "Beret",
                 "pixel": "Beret",
                 "snes": "Beret"
-              }
+              },
+              "type": "Orb"
             },
             {
               "location": "Escape route (approach from SE!)",
@@ -17358,7 +18747,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Orb"
             }
           ]
         }
@@ -17382,7 +18772,8 @@
                 "gba": "Healing Rod",
                 "pixel": "Healing Rod",
                 "snes": "Heal Rod"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northwest corner, 1st floor",
@@ -17391,7 +18782,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "By stairs, 1st floor",
@@ -17400,7 +18792,8 @@
                 "gba": "Fight 4x Nightwalker",
                 "pixel": "Fight 4x Nightwalker",
                 "snes": "Fight 4x Pm Stalker"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Center, 1st floor",
@@ -17409,7 +18802,8 @@
                 "gba": "Holy Rod",
                 "pixel": "Holy Rod",
                 "snes": "Pearl Rod"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwest corner, 1st floor",
@@ -17418,7 +18812,8 @@
                 "gba": "Hyper Wrist",
                 "pixel": "Hyper Wrist",
                 "snes": "Hyper Wrist"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northeast corner, basement",
@@ -17427,7 +18822,8 @@
                 "gba": "Magicite Shard",
                 "pixel": "Magicite Shard",
                 "snes": "Magicite"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northwest corner, basement",
@@ -17436,7 +18832,8 @@
                 "gba": "Fight 4x Nightwalker",
                 "pixel": "Fight 4x Nightwalker",
                 "snes": "Fight 4x Pm Stalker"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "South, basement",
@@ -17445,7 +18842,8 @@
                 "gba": "Bloodsword",
                 "pixel": "Bloodsword",
                 "snes": "Drainer"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17464,7 +18862,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Barrel"
             }
           ]
         },
@@ -17483,7 +18882,8 @@
                 "gba": "Holy Water",
                 "pixel": "Holy Water",
                 "snes": "Revivify"
-              }
+              },
+              "type": "Barrel"
             },
             {
               "location": "East of chocobo stable",
@@ -17492,7 +18892,8 @@
                 "gba": "Tent",
                 "pixel": "Tent",
                 "snes": "Tent"
-              }
+              },
+              "type": "Crate"
             },
             {
               "location": "Southwest corner of town",
@@ -17501,7 +18902,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Crate"
             },
             {
               "location": "Just north of the docks entrance",
@@ -17510,7 +18912,8 @@
                 "gba": "Tent",
                 "pixel": "Tent",
                 "snes": "Tent"
-              }
+              },
+              "type": "Barrel"
             },
             {
               "location": "Just north of the docks entrance",
@@ -17519,7 +18922,8 @@
                 "gba": "Remedy",
                 "pixel": "Remedy",
                 "snes": "Remedy"
-              }
+              },
+              "type": "Crate"
             },
             {
               "location": "Between armory entrances",
@@ -17528,7 +18932,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Barrel"
             },
             {
               "location": "On top of town wall, SW end",
@@ -17537,7 +18942,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": "Fenix Down"
-              }
+              },
+              "type": "Barrel"
             }
           ]
         },
@@ -17556,7 +18962,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Up the northwest stairs",
@@ -17565,7 +18972,8 @@
                 "gba": "Hero’s Ring",
                 "pixel": "Hero’s Ring",
                 "snes": "Hero Ring"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17584,7 +18992,8 @@
                 "gba": "Gravity Rod",
                 "pixel": "Gravity Rod",
                 "snes": "Gravity Rod"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Right chest in southeast room",
@@ -17593,7 +19002,8 @@
                 "gba": "Crystal Helm",
                 "pixel": "Crystal Helm",
                 "snes": "Crystal Helm"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Left chest in southwest room",
@@ -17602,7 +19012,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Right chest in southwest room",
@@ -17611,7 +19022,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Up western stairs",
@@ -17620,7 +19032,8 @@
                 "gba": "Royal Crown",
                 "pixel": "Royal Crown",
                 "snes": "Regal Crown"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Center of the treasury",
@@ -17629,7 +19042,8 @@
                 "gba": "Soul Sabre",
                 "pixel": "Soul Sabre",
                 "snes": "Soul Sabre"
-              }
+              },
+              "type": "Statue"
             }
           ]
         },
@@ -17648,7 +19062,8 @@
                 "gba": "Genji Helm",
                 "pixel": "Genji Helm",
                 "snes": "Genji Helmet"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Through southwest doorway",
@@ -17657,7 +19072,8 @@
                 "gba": "Crystal Mail",
                 "pixel": "Crystal Mail",
                 "snes": "Crystal Mail"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "At bottom of stairs",
@@ -17666,7 +19082,8 @@
                 "gba": "Regal Gown",
                 "pixel": "Regal Gown",
                 "snes": "Czarina Gown"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Hidden path E of Czarina Gown",
@@ -17675,7 +19092,8 @@
                 "gba": "Growth Egg",
                 "pixel": "Growth Egg",
                 "snes": "Exp. Egg"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northeast of the save point",
@@ -17684,7 +19102,8 @@
                 "gba": "Man-Eater",
                 "pixel": "Man-Eater",
                 "snes": "Man Eater"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northwest of the save point",
@@ -17693,7 +19112,8 @@
                 "gba": "Dragon Claw",
                 "pixel": "Dragon Claw",
                 "snes": "Dragon Claw"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17712,7 +19132,8 @@
                 "gba": "Red Cap",
                 "pixel": "Red Cap",
                 "snes": "Red Cap"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northwest of entrance",
@@ -17721,7 +19142,8 @@
                 "gba": "Ice Shield",
                 "pixel": "Ice Shield",
                 "snes": "Ice Shld"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "In spotlight",
@@ -17730,7 +19152,8 @@
                 "gba": "Thunder Shield",
                 "pixel": "Thunder Shield",
                 "snes": "Thunder Shld"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "On far side of broken bridge",
@@ -17739,7 +19162,8 @@
                 "gba": "Aegis Shield",
                 "pixel": "Aegis Shield",
                 "snes": "Aegis Shld"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Take northwest exit from cave",
@@ -17748,7 +19172,8 @@
                 "gba": "Gold Hairpin",
                 "pixel": "Gold Hairpin",
                 "snes": "Gold Hairpin"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Cyan’s locked chest, first time",
@@ -17757,7 +19182,8 @@
                 "gba": "“Books”",
                 "pixel": "“Books”",
                 "snes": "“Books”"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Cyan’s locked chest, second time!",
@@ -17766,7 +19192,8 @@
                 "gba": "empty",
                 "pixel": "empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17785,7 +19212,8 @@
                 "gba": "Berserker Ring",
                 "pixel": "Berserker Ring",
                 "snes": "Rage Ring"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Through hidden passage in NW",
@@ -17794,7 +19222,8 @@
                 "gba": "Tigerfang",
                 "pixel": "Tigerfang",
                 "snes": "Tiger Fangs"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "South of switched passage",
@@ -17803,7 +19232,8 @@
                 "gba": "IIchigeki",
                 "pixel": "IIchigeki",
                 "snes": "Striker"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17822,7 +19252,8 @@
                 "gba": "Moogle Suit",
                 "pixel": "Moogle Suit",
                 "snes": "Moogle Suit"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "North of the 3 moving doors",
@@ -17831,7 +19262,8 @@
                 "gba": "Lich Ring",
                 "pixel": "Lich Ring",
                 "snes": "Relic Ring"
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "Floating chest",
@@ -17840,7 +19272,8 @@
                 "gba": "293 Gil",
                 "pixel": "293 Gil",
                 "snes": "293 GP (claims to be 2000 GP)"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Floating chest",
@@ -17849,7 +19282,8 @@
                 "gba": "Potion",
                 "pixel": "Potion",
                 "snes": "Tonic (claims to be Potion)"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Floating chest",
@@ -17858,7 +19292,8 @@
                 "gba": "Ether",
                 "pixel": "Ether",
                 "snes": "Tincture (claims to be Ether)"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Floating chest",
@@ -17867,7 +19302,8 @@
                 "gba": "Gold Needle",
                 "pixel": "Gold Needle",
                 "snes": "Soft (claims to be Remedy)"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17886,7 +19322,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Pot"
             }
           ]
         },
@@ -17905,7 +19342,8 @@
                 "gba": "Guard Bracelet",
                 "pixel": "Guard Bracelet",
                 "snes": "Pod Bracelet"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northwest of save point",
@@ -17914,7 +19352,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": "Elixir"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "West end of the Moogle cave",
@@ -17923,7 +19362,8 @@
                 "gba": "Ribbon",
                 "pixel": "Ribbon",
                 "snes": "Ribbon"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Wall behind Mog",
@@ -17932,7 +19372,8 @@
                 "gba": "Molulu’s Charm",
                 "pixel": "Molulu’s Charm",
                 "snes": "Moogle Charm"
-              }
+              },
+              "type": "Hidden"
             }
           ]
         },
@@ -17951,7 +19392,8 @@
                 "gba": "Minerva Bustier",
                 "pixel": "Minerva Bustier",
                 "snes": "Minerva"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northwest of middle doorway",
@@ -17960,7 +19402,8 @@
                 "gba": "X-Ether",
                 "pixel": "X-Ether",
                 "snes": "X-Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwest chest in bridges room",
@@ -17969,7 +19412,8 @@
                 "gba": "Gauntlet",
                 "pixel": "Gauntlet",
                 "snes": "Gauntlet"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -17988,7 +19432,8 @@
                 "gba": "Genji Glove",
                 "pixel": "Genji Glove",
                 "snes": "Genji Glove"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Second train car, top left corner",
@@ -17997,7 +19442,8 @@
                 "gba": "Lump of Metal",
                 "pixel": "Lump of Metal",
                 "snes": "Lump of Metal"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "2nd car, behind moving chest",
@@ -18006,7 +19452,8 @@
                 "gba": "Flame Shield",
                 "pixel": "Flame Shield",
                 "snes": "Flame Shld"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "3rd car, SE, by furniture",
@@ -18015,7 +19462,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "3rd car, west end",
@@ -18024,7 +19472,8 @@
                 "gba": "Ice Shield",
                 "pixel": "Ice Shield",
                 "snes": "Ice Shld"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -18043,7 +19492,8 @@
                 "gba": "Red Jacket",
                 "pixel": "Red Jacket",
                 "snes": "Red Jacket"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Fall off the bridges",
@@ -18052,7 +19502,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "First chest on the bridges",
@@ -18061,7 +19512,8 @@
                 "gba": "Genji Armor",
                 "pixel": "Genji Armor",
                 "snes": "Genji Armor"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Second chest on the bridges",
@@ -18070,7 +19522,8 @@
                 "gba": "Magical Brush",
                 "pixel": "Magical Brush",
                 "snes": "Magical Brsh"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Chest at end of the bridges",
@@ -18079,7 +19532,8 @@
                 "gba": "Fake Mustache",
                 "pixel": "Fake Mustache",
                 "snes": "FakeMustache"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "First chest under falling roof",
@@ -18088,7 +19542,8 @@
                 "gba": "Zephyr Cloak",
                 "pixel": "Zephyr Cloak",
                 "snes": "Zephyr Cape"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Second chest under falling roof",
@@ -18097,7 +19552,8 @@
                 "gba": "Hero’s Ring",
                 "pixel": "Hero’s Ring",
                 "snes": "Hero Ring"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Third chest under falling roof",
@@ -18106,7 +19562,8 @@
                 "gba": "Pinwheel",
                 "pixel": "Pinwheel",
                 "snes": "Tack Star"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Jumping platforms before Gogo",
@@ -18115,7 +19572,8 @@
                 "gba": "Thunder Shield",
                 "pixel": "Thunder Shield",
                 "snes": "Thunder Shld"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -18134,7 +19592,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": "Ether"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southwest corner of first cave",
@@ -18143,7 +19602,8 @@
                 "gba": "Wing Edge",
                 "pixel": "Wing Edge",
                 "snes": "Wing Edge"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "East side of second cave",
@@ -18152,7 +19612,8 @@
                 "gba": "Gladius",
                 "pixel": "Gladius",
                 "snes": "Graedus"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Middle of second cave",
@@ -18161,7 +19622,8 @@
                 "gba": "Death Tarot",
                 "pixel": "Death Tarot",
                 "snes": "Doom Darts"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "South end of third cave",
@@ -18170,7 +19632,8 @@
                 "gba": "Magicite Shard",
                 "pixel": "Magicite Shard",
                 "snes": "Magicite"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "West end of third cave",
@@ -18179,7 +19642,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": "X-Potion"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "West of main castle entrance",
@@ -18188,7 +19652,8 @@
                 "gba": "Master’s Scroll",
                 "pixel": "Master’s Scroll",
                 "snes": "Offering"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "East of main castle entrance",
@@ -18197,7 +19662,8 @@
                 "gba": "Punisher",
                 "pixel": "Punisher",
                 "snes": "Punisher"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northeast from the throne room",
@@ -18206,7 +19672,8 @@
                 "gba": "Blizzard Orb",
                 "pixel": "Blizzard Orb",
                 "snes": "Blizzard Orb"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Northeast from the throne room",
@@ -18215,7 +19682,8 @@
                 "gba": "Gold Hairpin",
                 "pixel": "Gold Hairpin",
                 "snes": "Gold Hairpin"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "East from the throne room",
@@ -18224,7 +19692,8 @@
                 "gba": "X-Ether",
                 "pixel": "X-Ether",
                 "snes": "X-Ether"
-              }
+              },
+              "type": "Bucket"
             }
           ]
         },
@@ -18243,7 +19712,8 @@
                 "gba": "Wing Edge",
                 "pixel": "Wing Edge",
                 "snes": "Wing Edge"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "East side of upper level",
@@ -18252,7 +19722,8 @@
                 "gba": "Empty",
                 "pixel": "Empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Southeast corner of upper level",
@@ -18261,7 +19732,8 @@
                 "gba": "Teleport Stone",
                 "pixel": "Teleport Stone",
                 "snes": "Warp Stone"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "SW of first stepping stones",
@@ -18270,7 +19742,8 @@
                 "gba": "Empty",
                 "pixel": "Empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "SE of first stepping stones",
@@ -18279,7 +19752,8 @@
                 "gba": "Empty",
                 "pixel": "Empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Lower level, behind spikes",
@@ -18288,7 +19762,8 @@
                 "gba": "Empty",
                 "pixel": "Empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "In second stepping stones area",
@@ -18297,7 +19772,8 @@
                 "gba": "Empty",
                 "pixel": "Empty",
                 "snes": "empty"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Past the Red Dragon",
@@ -18306,7 +19782,8 @@
                 "gba": "Dragon Horn",
                 "pixel": "Dragon Horn",
                 "snes": "Dragon Horn"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Downstairs, after draining lava",
@@ -18315,7 +19792,8 @@
                 "gba": "Ribbon",
                 "pixel": "Ribbon",
                 "snes": "Ribbon"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -18334,7 +19812,8 @@
                 "gba": "Safety Bit",
                 "pixel": "Safety Bit",
                 "snes": "Safety Bit"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Hidden room on 6th floor",
@@ -18343,7 +19822,8 @@
                 "gba": "Air Anchor",
                 "pixel": "Air Anchor",
                 "snes": "Air Anchor"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Storeroom on 16th floor",
@@ -18352,7 +19832,8 @@
                 "gba": "Genji Shield",
                 "pixel": "Genji Shield",
                 "snes": "Genji Shld"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Storeroom on 25th floor",
@@ -18361,7 +19842,8 @@
                 "gba": "Kagenui",
                 "pixel": "Kagenui",
                 "snes": "Stunner"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Storeroom on 34th floor",
@@ -18370,7 +19852,8 @@
                 "gba": "Force Armor",
                 "pixel": "Force Armor",
                 "snes": "Force Armor"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Room on 38th (top) floor",
@@ -18379,7 +19862,8 @@
                 "gba": "Soul of Thamasa",
                 "pixel": "Soul of Thamasa",
                 "snes": "Gem Box"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -18398,7 +19882,8 @@
                 "gba": "Hypno Crown",
                 "pixel": "Hypno Crown",
                 "snes": "Coronet"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "First metallic area",
@@ -18407,7 +19892,8 @@
                 "gba": "Fixed Dice",
                 "pixel": "Fixed Dice",
                 "snes": "Fixed Dice"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Third time outside, northwest",
@@ -18416,7 +19902,8 @@
                 "gba": "Pinwheel",
                 "pixel": "Pinwheel",
                 "snes": "Tack Star"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -18435,7 +19922,8 @@
                 "gba": "Minerva Bustier",
                 "pixel": "Minerva Bustier",
                 "snes": "Minerva"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Second cave area",
@@ -18444,7 +19932,8 @@
                 "gba": "Pinwheel",
                 "pixel": "Pinwheel",
                 "snes": "Tack Star"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Second time outside, west",
@@ -18453,7 +19942,8 @@
                 "gba": "Force Shield",
                 "pixel": "Force Shield",
                 "snes": "Force Shld"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Second time outside, southwest",
@@ -18462,7 +19952,8 @@
                 "gba": "Force Armor",
                 "pixel": "Force Armor",
                 "snes": "Force Armor"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "By switch for group 1 bridge",
@@ -18471,7 +19962,8 @@
                 "gba": "Ribbon",
                 "pixel": "Ribbon",
                 "snes": "Ribbon"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -18490,7 +19982,8 @@
                 "gba": "Red Cap",
                 "pixel": "Red Cap",
                 "snes": "Red Cap"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Through first door seen",
@@ -18499,7 +19992,8 @@
                 "gba": "Nutkin Suit",
                 "pixel": "Nutkin Suit",
                 "snes": "Nutkin Suit"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Through first door seen",
@@ -18508,7 +20002,8 @@
                 "gba": "Gauntlet",
                 "pixel": "Gauntlet",
                 "snes": "Gauntlet"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "By stairs in conveyor area",
@@ -18517,7 +20012,8 @@
                 "gba": "Hero’s Ring",
                 "pixel": "Hero’s Ring",
                 "snes": "Hero Ring"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "South of conveyor (hidden path)",
@@ -18526,7 +20022,8 @@
                 "gba": "Aegis Shield",
                 "pixel": "Aegis Shield",
                 "snes": "Aegis Shld"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Second time outside, east",
@@ -18535,7 +20032,8 @@
                 "gba": "Megalixir",
                 "pixel": "Megalixir",
                 "snes": "Megalixir"
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Second time outside, west",
@@ -18544,7 +20042,8 @@
                 "gba": "Rainbow Brush",
                 "pixel": "Rainbow Brush",
                 "snes": "Rainbow Brsh"
-              }
+              },
+              "type": "Chest"
             }
           ]
         },
@@ -18563,7 +20062,8 @@
                 "gba": "Ribbon",
                 "pixel": "Ribbon",
                 "snes": "Ribbon"
-              }
+              },
+              "type": "Hidden"
             }
           ]
         },
@@ -18582,7 +20082,8 @@
                 "gba": "Rename Card",
                 "pixel": "Rename Card",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Burning Labyrinth (East)",
@@ -18591,7 +20092,8 @@
                 "gba": "Hi-Ether",
                 "pixel": "Hi-Ether",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Burning Labyrinth (North)",
@@ -18600,7 +20102,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "North-East of Red Dragon",
@@ -18609,7 +20112,8 @@
                 "gba": "Megalixir",
                 "pixel": "Megalixir",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "South-East of Red Dragon",
@@ -18618,7 +20122,8 @@
                 "gba": "Magicite Shard",
                 "pixel": "Magicite Shard",
                 "snes": ""
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "South-East of Magicite Shard",
@@ -18627,7 +20132,8 @@
                 "gba": "Teleport Stone",
                 "pixel": "Teleport Stone",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Grand Cavern (Wooden Bridges; South)",
@@ -18636,7 +20142,8 @@
                 "gba": "Celestriad",
                 "pixel": "Celestriad",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Grand Cavern (Wooden Bridges; North)",
@@ -18645,7 +20152,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Grand Cavern (Above Elixir)",
@@ -18654,7 +20162,8 @@
                 "gba": "X-Ether",
                 "pixel": "X-Ether",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Holy Palace (West)",
@@ -18663,7 +20172,8 @@
                 "gba": "Magus Robe",
                 "pixel": "Magus Robe",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Inner Eye Labyrinth (South-East)",
@@ -18672,7 +20182,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": ""
-              }
+              },
+              "type": "Hidden"
             },
             {
               "location": "Inner Eye Labyrinth (South-West)",
@@ -18681,7 +20192,8 @@
                 "gba": "Force Armor",
                 "pixel": "Force Armor",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Cloister (North-East)",
@@ -18690,7 +20202,8 @@
                 "gba": "Elixir",
                 "pixel": "Elixir",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Cloister (North-West)",
@@ -18699,7 +20212,8 @@
                 "gba": "Phoenix Down",
                 "pixel": "Phoenix Down",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Cloister (South-East)",
@@ -18708,7 +20222,8 @@
                 "gba": "Ribbon",
                 "pixel": "Ribbon",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Treasure Room (NW)",
@@ -18717,7 +20232,8 @@
                 "gba": "Ribbon",
                 "pixel": "Ribbon",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Treasure Room (SW)",
@@ -18726,7 +20242,8 @@
                 "gba": "Bone Wrist",
                 "pixel": "Bone Wrist",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Treasure Room (SW)",
@@ -18735,7 +20252,8 @@
                 "gba": "Stardust Rod",
                 "pixel": "Stardust Rod",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Treasure Room",
@@ -18744,7 +20262,8 @@
                 "gba": "Dueling Mask",
                 "pixel": "Dueling Mask",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Treasure Room",
@@ -18753,7 +20272,8 @@
                 "gba": "Genji Glove",
                 "pixel": "Genji Glove",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Treasure Room",
@@ -18762,7 +20282,8 @@
                 "gba": "Crystal Orb",
                 "pixel": "Crystal Orb",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Treasure Room",
@@ -18771,7 +20292,8 @@
                 "gba": "Oborozuki",
                 "pixel": "Oborozuki",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Treasure Room",
@@ -18780,7 +20302,8 @@
                 "gba": "Angel Brush",
                 "pixel": "Angel Brush",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Dragon Temple - Treasure Room",
@@ -18789,7 +20312,8 @@
                 "gba": "Gungnir",
                 "pixel": "Gungnir",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Earth Labyrinth (South-East)",
@@ -18798,7 +20322,8 @@
                 "gba": "X-Potion",
                 "pixel": "X-Potion",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             },
             {
               "location": "Earth Labyrinth (South-East)",
@@ -18807,7 +20332,8 @@
                 "gba": "Remedy",
                 "pixel": "Remedy",
                 "snes": ""
-              }
+              },
+              "type": "Chest"
             }
           ]
         }

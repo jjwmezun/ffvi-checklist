@@ -57,7 +57,7 @@ function Dance( props: DanceProps ) {
 	const checkedCount = list.filter( item => checked.dance[ item.id ] ).length;
 
 	return <div>
-		<h2 className="checklist__title">Dance</h2>
+		<h2 className="checklist__title">Dances</h2>
 		<table className="checklist-table">
 			<thead>
 				<tr>

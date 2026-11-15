@@ -1,0 +1,21 @@
+.magicite-desc {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.magicite-spell {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-color: black;
+    margin-right: 0.5rem;
+    border-radius: 50%;
+}
+
+.magicite-spell--white {
+    background-color: white;
+}
+
+.magicite-spell--gray {
+    background-color: gray;
+}

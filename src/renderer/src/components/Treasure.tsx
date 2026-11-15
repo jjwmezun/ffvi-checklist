@@ -120,9 +120,11 @@ function Treasure( props: TreasureProps ) {
 	const flatChecked =checked.treasure.flat( 2 ).filter( ( _v, index ) => flatTreasure[ index ].in[ gameVersion ] );
 	const checkedCount = flatChecked.filter( v => v ).length;
 
+	/* eslint-disable max-len */
 	return <div className="treasure">
 		<h2 className="checklist__title">Treasure</h2>
 		<div className="checklist__count">{ checkedCount } / { flatChecked.length }</div>
+		<div className="treasure-desc">Info based heavily on the treasure FAQ by Corundum & the edited-for-GBA version by Lufia_Maxim @ <a href="https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/40362">https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/40362</a> & <a href="https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/47026">https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/47026</a>, respectively.</div>
 		{ data.map( ( section, index ) => <TreasureSection
 			key={ section.title }
 			checked={ checked.treasure[ index ] }
@@ -131,6 +133,8 @@ function Treasure( props: TreasureProps ) {
 			data={ section }
 		/> ) }
 	</div>;
+
+	/* eslint-enable max-len */
 }
 
 export default Treasure;

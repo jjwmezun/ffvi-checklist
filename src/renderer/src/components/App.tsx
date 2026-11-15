@@ -235,6 +235,7 @@ function App( props: appPropTypes ): React.JSX.Element {
 			{ itemType === ItemType.Lore && <Lore
 				list={ lore }
 				checked={ checked }
+				enemies={ enemy }
 				gameVersion={ gameVersion }
 				generateOnCheck={ generateOnCheck }
 			/> }

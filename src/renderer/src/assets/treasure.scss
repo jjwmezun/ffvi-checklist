@@ -1,0 +1,45 @@
+
+.treasure {
+	margin: 0 auto;
+	max-width: 80rem;
+
+	.checklist-table {
+		margin-left: 0;
+		margin-right: 0;
+		width: 100%;
+
+		td:first-child {
+			width: 8rem;
+		}
+
+		td:nth-child( 5 ) {
+			width: 8rem;
+			text-align: center;
+		}
+	}
+
+	.checklist-section {
+		margin: 2rem 0;
+	}
+
+	.checklist-section__title {
+		font-weight: 800;
+	}
+
+	.checklist__title {
+		margin-bottom: 0;
+	}
+
+	.checklist__count {
+		font-size: 2rem;
+		text-align: center;
+	}
+}
+
+.treasure-section__title {
+	padding-top: 2rem;
+}
+
+.treasure-desc {
+	margin: 1rem 0;
+}
