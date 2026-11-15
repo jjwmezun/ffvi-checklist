@@ -5,6 +5,7 @@ import {
 	GameVersion,
 	CheckType,
 } from '../common/types';
+import DialogBox from './DialogBox';
 
 interface RageProps {
 	checked: CheckData,
@@ -61,6 +62,11 @@ function Rage( props: RageProps ) {
 
 	return <div>
 		<h2 className="checklist__title">Rages</h2>
+		<DialogBox
+			checked={ checkedLength }
+			title="Rages"
+			total={ obtainableLength }
+		/>
 		<table className="checklist-table">
 			<thead>
 				<tr>

@@ -1,0 +1,32 @@
+
+.dialog-box {
+	border: 2px solid #fff;
+	padding: 2rem;
+	background-image: linear-gradient(to bottom, #7371ce, #000031 );
+	border-radius: 1rem;
+	color: #fff;
+	max-width: 60rem;
+	margin: 2rem auto;
+	box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.5);
+}
+
+.meter {
+	border: 2px solid #fff;
+	height: 2rem;
+	padding: 0.25rem;
+	border-radius: 0.5rem;
+}
+
+.meter__fill {
+	background-color: #fff;
+	height: 100%;
+	transition: width 0.3s ease-in-out;
+}
+
+.dialog-sect:not(:last-child) {
+	margin-bottom: 1rem;
+}
+
+.meter__fill--full {
+	background-color: #ffc000;
+}

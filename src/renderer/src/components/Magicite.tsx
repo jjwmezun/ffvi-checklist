@@ -4,6 +4,7 @@ import {
 	GameVersion,
 	MagiciteData,
 } from '../common/types';
+import DialogBox from './DialogBox';
 
 interface MagiciteProps {
 	checked: CheckData,
@@ -67,6 +68,11 @@ function Magicite( props: MagiciteProps ) {
 
 	return <div>
 		<h2 className="checklist__title">Magicites</h2>
+		<DialogBox
+			checked={ checkedCount }
+			title="Magicites"
+			total={ validIds.length }
+		/>
 		<div className="magicite-desc">The Odin magicite needs to be traded in to receive the Raiden magicite, so the Odin magicite has no check & isn’t counted toward completion.</div>
 		<table className="checklist-table">
 			<thead>

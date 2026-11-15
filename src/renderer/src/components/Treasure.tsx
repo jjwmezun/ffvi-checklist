@@ -6,6 +6,7 @@ import {
 	TreasureItemData,
 	TreasureItemDataFlattened,
 } from '../common/types';
+import DialogBox from './DialogBox';
 
 interface TreasureProps {
 	checked: CheckData,
@@ -123,7 +124,11 @@ function Treasure( props: TreasureProps ) {
 	/* eslint-disable max-len */
 	return <div className="treasure">
 		<h2 className="checklist__title">Treasure</h2>
-		<div className="checklist__count">{ checkedCount } / { flatChecked.length }</div>
+		<DialogBox
+			checked={ checkedCount }
+			title="Treasures"
+			total={ flatTreasure.length }
+		/>
 		<div className="treasure-desc">Info based heavily on the treasure FAQ by Corundum & the edited-for-GBA version by Lufia_Maxim @ <a href="https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/40362">https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/40362</a> & <a href="https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/47026">https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/47026</a>, respectively.</div>
 		{ data.map( ( section, index ) => <TreasureSection
 			key={ section.title }

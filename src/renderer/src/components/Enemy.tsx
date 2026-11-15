@@ -4,6 +4,7 @@ import {
 	EnemyData,
 	GameVersion,
 } from '../common/types';
+import MeterSection from './MeterSection';
 
 interface EnemyProps {
 	checked: CheckData,
@@ -84,17 +85,30 @@ function Enemy( props: EnemyProps ): React.JSX.Element {
 	const bestiarySize = versionList.filter( i => i.numbers.gba ).length;
 
 	const veldtLength = checked.veldt.filter( ( v, i ) => v && validIds.includes( i ) ).length;
+	const bestiaryChecked = checked.bestiary.filter( i => i ).length;
 
 	/* eslint-disable max-len */
 
 	return <div>
 		<h2 className="checklist__title">Enemies</h2>
+		<div className="dialog-box">
+			{ gameVersion !== GameVersion.SNES && <MeterSection
+				checked={ bestiaryChecked }
+				title="Bestiary"
+				total={ bestiarySize }
+			/> }
+			<MeterSection
+				checked={ veldtLength }
+				title="Veldt"
+				total={ versionList.length }
+			/>
+		</div>
 		<div className="enemy-desc">Bestiary checks are for enemies defeated in battle, veldt checks are for enemies encountered & beaten or successfully fled.</div>
 		<table className="checklist-table">
 			<thead>
 				<tr>
 					{ gameVersion !== GameVersion.SNES && <th className="checklist-table__cell">
-						Bestiary<br />{ checked.bestiary.filter( i => i ).length } / { bestiarySize }
+						Bestiary<br />{ bestiaryChecked } / { bestiarySize }
 					</th> }
 					<th className="checklist-table__cell">
 						Veldt<br />{ veldtLength } / { versionList.length }

@@ -4,6 +4,7 @@ import {
 	GameVersion,
 	DanceData,
 } from '../common/types';
+import DialogBox from './DialogBox';
 
 interface DanceProps {
 	checked: CheckData,
@@ -58,6 +59,11 @@ function Dance( props: DanceProps ) {
 
 	return <div>
 		<h2 className="checklist__title">Dances</h2>
+		<DialogBox
+			checked={ checkedCount }
+			title="Dances"
+			total={ list.length }
+		/>
 		<table className="checklist-table">
 			<thead>
 				<tr>

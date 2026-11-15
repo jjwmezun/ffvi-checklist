@@ -5,6 +5,7 @@ import {
 	LoreData,
 } from '../common/types';
 import { EnemyData } from '../common/types';
+import DialogBox from './DialogBox';
 
 interface LoreProps {
 	checked: CheckData,
@@ -53,6 +54,11 @@ function Lore( props: LoreProps ) {
 
 	return <div>
 		<h2 className="checklist__title">Lores</h2>
+		<DialogBox
+			checked={ checkedCount }
+			title="Lores"
+			total={ list.length }
+		/>
 		<table className="checklist-table">
 			<thead>
 				<tr>
