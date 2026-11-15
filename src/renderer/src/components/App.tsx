@@ -64,7 +64,7 @@ function App( props: appPropTypes ): React.JSX.Element {
 		rage,
 		treasure,
 	} = data as DataType;
-	const [ gameVersion, setGameVersion ] = useState<GameVersion>( GameVersion.GBA );
+	const [ gameVersion, setGameVersion ] = useState<GameVersion>( GameVersion.SNES );
 	const [ itemType, setItemType ] = useState<ItemType>( ItemType.Enemy );
 	const [ checked, setChecked ] = useState<CheckData>( generateCheckData( data ) );
 	const [ hardSave, setHardSave ] = useState<CheckData | null>( generateHardSaveData( data ) );
@@ -160,6 +160,14 @@ function App( props: appPropTypes ): React.JSX.Element {
 		<div className="export">
 			<button
 				className="btn btn-secondary"
+				disabled={ gameVersion === GameVersion.SNES }
+				type="button"
+				onClick={ () => setGameVersion( GameVersion.SNES ) }
+			>
+				SNES
+			</button>
+			<button
+				className="btn btn-secondary"
 				disabled={ gameVersion === GameVersion.GBA }
 				type="button"
 				onClick={ () => setGameVersion( GameVersion.GBA ) }
@@ -168,11 +176,11 @@ function App( props: appPropTypes ): React.JSX.Element {
 			</button>
 			<button
 				className="btn btn-secondary"
-				disabled={ gameVersion === GameVersion.SNES }
+				disabled={ gameVersion === GameVersion.PIXEL }
 				type="button"
-				onClick={ () => setGameVersion( GameVersion.SNES ) }
+				onClick={ () => setGameVersion( GameVersion.PIXEL ) }
 			>
-				SNES
+				Pixel Remaster
 			</button>
 		</div>
 		<TypeMenu currentType={ itemType } setItemType={ setItemType } />
@@ -323,14 +331,28 @@ function generateHardSaveData( data: DataType ): CheckData | null {
 function createHardSaveString( data: CheckData ): string {
 	let out = ``;
 	for ( const type in data ) {
-		for ( const item of data[ type ] ) {
-			out += item ? `1` : `0`;
+		switch ( type ) {
+		case `treasure`:
+			for ( const section of data[ type ] ) {
+				for ( const area of section ) {
+					for ( const item of area ) {
+						out += item ? `1` : `0`;
+					}
+				}
+			}
+			break;
+		default:
+			for ( const item of data[ type ] ) {
+				out += item ? `1` : `0`;
+			}
 		}
 	}
 	return out;
 }
 
 function generateCheckData( data: DataType ): CheckData {
+	const maxEnemyId = Math.max( ...data.enemy.map( enemy => enemy.id ) );
+	const enemyIdRange = Array.from( { length: maxEnemyId + 1 }, ( _, i ) => i );
 	return {
 		bestiary: data.enemy.filter( i => i.numbers.gba ).map( ( _: EnemyData, index: number ) => {
 			const stored = localStorage.getItem( `bestiary-${ index }` );
@@ -360,7 +382,7 @@ function generateCheckData( data: DataType ): CheckData {
 			} ) ),
 		// eslint-disable-next-line function-paren-newline
 		),
-		veldt: data.enemy.map( ( _: EnemyData, index: number ) => {
+		veldt: enemyIdRange.map( ( _: number, index: number ) => {
 			const stored = localStorage.getItem( `veldt-${ index }` );
 			return stored === `1` ? true : false;
 		} ),
@@ -399,9 +421,24 @@ function generateEmptyCheckData( data: DataType ): CheckData {
 
 function testDataAreEqual( data1: object, data2: object ): boolean {
 	for ( const type in data1 ) {
-		for ( let i = 0; i < data1[ type ].length; i++ ) {
-			if ( data1[ type ][ i ] !== data2[ type ][ i ] ) {
-				return false;
+		switch ( type ) {
+		case `treasure`:
+			for ( const sectionIndex in data1[ type ] ) {
+				for ( const areaIndex in data1[ type ][ sectionIndex ].areas ) {
+					for ( const itemIndex in data1[ type ][ sectionIndex ].areas[ areaIndex ].items ) {
+						// eslint-disable-next-line max-len
+						if ( data1[ type ][ sectionIndex ].areas[ areaIndex ].items[ itemIndex ] !== data2[ type ][ sectionIndex ].areas[ areaIndex ].items[ itemIndex ] ) {
+							return false;
+						}
+					}
+				}
+			}
+			continue;
+		default:
+			for ( let i = 0; i < data1[ type ].length; i++ ) {
+				if ( data1[ type ][ i ] !== data2[ type ][ i ] ) {
+					return false;
+				}
 			}
 		}
 	}

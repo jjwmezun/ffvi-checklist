@@ -36,8 +36,8 @@ function DanceRow( props: DanceRowProps ): React.JSX.Element {
 		</td>
 		<td className="checklist-table__cell">{ item.id }</td>
 		<td className="checklist-table__cell">{ item.names[ gameVersion ] }</td>
-		<td className={ `checklist-table__cell ${ item.missible ? `no` : `yes` }` }>
-			{ item.missible ? `Yes` : `No` }
+		<td className={ `checklist-table__cell ${ item.missable ? `no` : `yes` }` }>
+			{ item.missable ? `Yes` : `No` }
 		</td>
 		<td className="checklist-table__cell">
 			{ item.found[ gameVersion ].join( `, ` ) }
@@ -64,7 +64,7 @@ function Dance( props: DanceProps ) {
 					<th className="checklist-table__cell">{ checkedCount } / { list.length }</th>
 					<th className="checklist-table__cell">#</th>
 					<th className="checklist-table__cell">Name</th>
-					<th className="checklist-table__cell">Missible</th>
+					<th className="checklist-table__cell">Missable</th>
 					<th className="checklist-table__cell">Found</th>
 					<th className="checklist-table__cell">¿In WOB?</th>
 					<th className="checklist-table__cell">¿In WOR?</th>

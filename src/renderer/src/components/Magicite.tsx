@@ -26,13 +26,13 @@ function MagiciteRow( props: MagiciteRowProps ): React.JSX.Element {
 
 	return <tr className={ classes }>
 		<td className="checklist-table__cell">
-			<div className="checklist-table__check">
+			{ ! item.ignore[ gameVersion ] && <div className="checklist-table__check">
 				<input
 					type="checkbox"
 					checked={ checked.magicite[ item.id ] }
 					onClick={ generateOnCheck( CheckType.Magicite )( item.id ) }
 				/>
-			</div>
+			</div> }
 		</td>
 		<td className="checklist-table__cell">{ item.id }</td>
 		<td className="checklist-table__cell">{ item.names[ gameVersion ] }</td>
@@ -42,8 +42,15 @@ function MagiciteRow( props: MagiciteRowProps ): React.JSX.Element {
 function Magicite( props: MagiciteProps ) {
 	const { checked, list, gameVersion, generateOnCheck } = props;
 
-	const versionList = list.filter( i => gameVersion === GameVersion.GBA || i.inSNES );
-	const validIds = versionList.map( i => i.id );
+	// eslint-disable-next-line function-paren-newline
+	const versionList = list.filter(
+		i => ( gameVersion === GameVersion.GBA && i.in.gba )
+			|| ( gameVersion === GameVersion.SNES && i.in.snes )
+			|| ( gameVersion === GameVersion.PIXEL && i.in.pixel ),
+	// eslint-disable-next-line function-paren-newline
+	);
+
+	const validIds = versionList.filter( i => ! i.ignore[ gameVersion ] ).map( i => i.id );
 	const checkedCount = validIds.filter( id => checked.magicite[ id ] ).length;
 
 	return <div>
@@ -51,7 +58,7 @@ function Magicite( props: MagiciteProps ) {
 		<table className="checklist-table">
 			<thead>
 				<tr>
-					<th className="checklist-table__cell">{ checkedCount } / { versionList.length }</th>
+					<th className="checklist-table__cell">{ checkedCount } / { validIds.length }</th>
 					<th className="checklist-table__cell">#</th>
 					<th className="checklist-table__cell">Name</th>
 				</tr>

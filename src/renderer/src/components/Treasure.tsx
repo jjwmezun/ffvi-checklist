@@ -62,11 +62,11 @@ function TreasureRow( props: TreasureRowProp ) {
 
 function TreasureArea( props: TreasureAreaProps ) {
 	const { checked, data, gameVersion, generateOnCheck } = props;
-	const { items, inSNES, title } = data;
+	const { items, title } = data;
 
 	const checkedCount = checked.filter( v => v ).length;
 
-	return ( gameVersion === GameVersion.GBA || inSNES )
+	return ( data.in[ gameVersion ] )
 		? <div className="checklist-section">
 			<h4 className="checklist-section__title">{ title }</h4>
 			<table className="checklist-table checklist-table--left">
@@ -80,7 +80,7 @@ function TreasureArea( props: TreasureAreaProps ) {
 					</tr>
 				</thead>
 				<tbody>
-					{ items.map( ( item, index ) => <TreasureRow
+					{ items.map( ( _item, index ) => <TreasureRow
 						key={ index }
 						checked={ checked[ index ] }
 						gameVersion={ gameVersion }
@@ -116,10 +116,8 @@ function Treasure( props: TreasureProps ) {
 	const { checked, data, gameVersion, generateOnCheck } = props;
 
 	const flatTreasure : TreasureItemDataFlattened[] = data.flatMap( section => section.areas )
-		.flatMap( area => area.items.map( item => ( { ...item, inSNES: area.inSNES } ) ) );
-	const flatChecked = gameVersion === GameVersion.GBA
-		? checked.treasure.flat( 2 )
-		: checked.treasure.flat( 2 ).filter( ( v, index ) => flatTreasure[ index ].inSNES );
+		.flatMap( area => area.items.map( item => ( { ...item, in: area.in } ) ) );
+	const flatChecked =checked.treasure.flat( 2 ).filter( ( _v, index ) => flatTreasure[ index ].in[ gameVersion ] );
 	const checkedCount = flatChecked.filter( v => v ).length;
 
 	return <div className="treasure">

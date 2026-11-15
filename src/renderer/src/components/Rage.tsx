@@ -42,8 +42,8 @@ function RageRow( props: RageRowProps ): React.JSX.Element {
 			{ enemies.find( enemy => enemy.id === item.enemy )?.names[ gameVersion ] ?? `Unknown` }
 		</td>
 		<td className="checklist-table__cell">{ item.location }</td>
-		<td className="checklist-table__cell">{ item.regularAttack }</td>
-		<td className="checklist-table__cell">{ item.specialAttack }</td>
+		<td className="checklist-table__cell">{ item.regularAttack[ gameVersion ] }</td>
+		<td className="checklist-table__cell">{ item.specialAttack[ gameVersion ] }</td>
 		<td className="checklist-table__cell">{ item.innateAbilities.split( `\n` )
 			.map( ( ability, index ) => <div key={ index }>{ ability }</div> ) }
 		</td>

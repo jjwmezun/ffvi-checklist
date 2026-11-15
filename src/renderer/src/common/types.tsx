@@ -25,6 +25,10 @@ interface DanceData {
 			wob: boolean,
 			wor: boolean,
 		},
+		pixel: {
+			wob: boolean,
+			wor: boolean,
+		},
 		snes: {
 			wob: boolean,
 			wor: boolean,
@@ -32,31 +36,47 @@ interface DanceData {
 	},
 	found: {
 		gba: string[],
+		pixel: string[],
 		snes: string[],
 	},
-	missible: boolean,
+	missable: boolean,
 	names: {
 		gba: string,
+		pixel: string,
 		snes?: string,
 	},
 }
 
 interface EnemyData {
+	drops: EnemyItem[],
 	icon: string,
 	id: number,
 	location: string[],
 	names: {
 		gba: string,
+		pixel: string,
 		snes?: string,
 	},
 	numbers: {
 		gba?: number,
+		pixel?: number,
 		snes?: number,
-	}
+	},
+	steal: EnemyItem[],
+}
+
+interface EnemyItem {
+	chance: string,
+	names: {
+		gba: string,
+		pixel: string,
+		snes: string,
+	},
 }
 
 enum GameVersion {
 	GBA = `gba`,
+	PIXEL = `pixel`,
 	SNES = `snes`,
 }
 
@@ -64,15 +84,26 @@ interface LoreData {
 	id: number,
 	names: {
 		gba: string,
+		pixel: string,
 		snes?: string,
 	},
 }
 
 interface MagiciteData {
-	inSNES: boolean,
+	ignore: {
+		gba: boolean,
+		pixel: boolean,
+		snes: boolean,
+	},
+	in: {
+		gba: boolean,
+		pixel: boolean,
+		snes: boolean,
+	},
 	id: number,
 	names: {
 		gba: string,
+		pixel: string,
 		snes?: string,
 	},
 }
@@ -83,18 +114,31 @@ interface RageData {
 	location: string,
 	obtainable: {
 		gba: boolean,
+		pixel: boolean,
 		snes: boolean,
 	},
-	regularAttack: string,
-	specialAttack: string,
+	regularAttack: {
+		gba: string,
+		pixel: string,
+		snes: string,
+	},
+	specialAttack: {
+		gba: string,
+		pixel: string,
+		snes: string,
+	},
 	innateAbilities: string,
 	statusImmunity: string,
 }
 
 interface TreasureAreaData {
-	title: string,
-	inSNES: boolean,
+	in: {
+		gba: boolean,
+		pixel: boolean,
+		snes: boolean,
+	},
 	items: TreasureItemData[],
+	title: string,
 }
 
 interface TreasureData {
@@ -105,6 +149,7 @@ interface TreasureData {
 interface TreasureItemData {
 	names: {
 		gba: string,
+		pixel: string,
 		snes: string,
 	},
 	location: string,
@@ -113,9 +158,14 @@ interface TreasureItemData {
 }
 
 interface TreasureItemDataFlattened {
-	inSNES: boolean,
+	in: {
+		gba: boolean,
+		pixel: boolean,
+		snes: boolean,
+	},
 	names: {
 		gba: string,
+		pixel: string,
 		snes: string,
 	},
 	location: string,

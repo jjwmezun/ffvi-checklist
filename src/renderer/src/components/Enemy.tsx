@@ -26,13 +26,14 @@ function EnemyRow( props: CheckListRowProps ): React.JSX.Element {
 
 	if (
 		( gameVersion === GameVersion.GBA && checked.bestiary[ item.id ] )
+		|| ( gameVersion === GameVersion.PIXEL && checked.bestiary[ item.id ] )
 		|| ( gameVersion === GameVersion.SNES && checked.veldt[ item.id ] )
 	) {
 		classes += ` checklist-table__row--checked`;
 	}
 
 	return <tr className={ classes }>
-		{ gameVersion === GameVersion.GBA && <td className="checklist-table__cell">
+		{ gameVersion !== GameVersion.SNES && <td className="checklist-table__cell">
 			{ item.numbers.gba && <div className="checklist-table__check">
 				<input
 					type="checkbox"
@@ -50,7 +51,7 @@ function EnemyRow( props: CheckListRowProps ): React.JSX.Element {
 				/>
 			</div>
 		</td>
-		{ gameVersion === GameVersion.GBA && <td className="checklist-table__cell">
+		{ gameVersion !== GameVersion.SNES && <td className="checklist-table__cell">
 			{ item.numbers.gba }
 		</td> }
 		<td className="checklist-table__cell">
@@ -62,6 +63,16 @@ function EnemyRow( props: CheckListRowProps ): React.JSX.Element {
 		<td className="checklist-table__cell">
 			{ item.location.join( `, ` ) }
 		</td>
+		<td className="checklist-table__cell">
+			{ item.drops.map( ( drop, index ) => <div key={ index }>
+				{ drop.names[ gameVersion ] } ({ drop.chance })
+			</div> ) }
+		</td>
+		<td className="checklist-table__cell">
+			{ item.steal.map( ( steal, index ) => <div key={ index }>
+				{ steal.names[ gameVersion ] } ({ steal.chance })
+			</div> ) }
+		</td>
 	</tr>;
 }
 
@@ -69,7 +80,7 @@ function Enemy( props: EnemyProps ): React.JSX.Element {
 	const { checked, gameVersion, list, generateOnCheck } = props;
 
 	const versionList = list.filter( i => i.names[ gameVersion ] );
-	const validIds = versionList.map( i => i.id ).filter( i => i );
+	const validIds = versionList.map( i => i.id );
 	const bestiarySize = versionList.filter( i => i.numbers.gba ).length;
 
 	const veldtLength = checked.veldt.filter( ( v, i ) => v && validIds.includes( i ) ).length;
@@ -79,16 +90,18 @@ function Enemy( props: EnemyProps ): React.JSX.Element {
 		<table className="checklist-table">
 			<thead>
 				<tr>
-					{ gameVersion === GameVersion.GBA && <th className="checklist-table__cell">
+					{ gameVersion !== GameVersion.SNES && <th className="checklist-table__cell">
 						Bestiary<br />{ checked.bestiary.filter( i => i ).length } / { bestiarySize }
 					</th> }
 					<th className="checklist-table__cell">
 						Veldt<br />{ veldtLength } / { versionList.length }
 					</th>
-					{ gameVersion === GameVersion.GBA && <th className="checklist-table__cell">#</th> }
+					{ gameVersion !== GameVersion.SNES && <th className="checklist-table__cell">#</th> }
 					<th className="checklist-table__cell">Name</th>
 					<th className="checklist-table__cell">Icon</th>
 					<th className="checklist-table__cell">Location</th>
+					<th className="checklist-table__cell">Drops</th>
+					<th className="checklist-table__cell">Steal</th>
 				</tr>
 			</thead>
 			<tbody>
