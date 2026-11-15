@@ -1036,7 +1036,7 @@
 			"snes": "Over-Mind"
 		},
 		"rage": [
-			"Will o' the Wisp"
+			"Will o’ the Wisp"
 		],
 		"numbers": {
 			"gba": 44
@@ -1522,7 +1522,7 @@
 		},
 		"steal": [
 			"Hi-Potion (87.5%)",
-			"Thief's Knife (12.5%)"
+			"Thief’s Knife (12.5%)"
 		],
 		"icon": "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",
 		"id": 65
@@ -3323,7 +3323,7 @@
 			"Holy Water (12.5%)"
 		],
 		"location": [
-			"Darill's Tomb",
+			"Darill’s Tomb",
 			"Veldt"
 		],
 		"names": {
@@ -3348,7 +3348,7 @@
 			"Holy Water (12.5%)"
 		],
 		"location": [
-			"Darill's Tomb",
+			"Darill’s Tomb",
 			"Veldt"
 		],
 		"names": {
@@ -3373,7 +3373,7 @@
 			"Holy Water (12.5%)"
 		],
 		"location": [
-			"Darill's Tomb",
+			"Darill’s Tomb",
 			"Veldt"
 		],
 		"names": {
@@ -3398,7 +3398,7 @@
 			"Holy Water (12.5%)"
 		],
 		"location": [
-			"Darill's Tomb",
+			"Darill’s Tomb",
 			"Veldt"
 		],
 		"names": {
@@ -3420,7 +3420,7 @@
 			"Holy Water (12.5%)"
 		],
 		"location": [
-			"Darill's Tomb",
+			"Darill’s Tomb",
 			"Veldt"
 		],
 		"names": {
@@ -3456,7 +3456,7 @@
 			"gba": 148
 		},
 		"steal": [
-			"Thief's Bracer (12.5%)"
+			"Thief’s Bracer (12.5%)"
 		],
 		"icon": "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",
 		"id": 148
@@ -3474,13 +3474,13 @@
 			"snes": "Scapper"
 		},
 		"rage": [
-			"Will o' the Wisp"
+			"Will o’ the Wisp"
 		],
 		"numbers": {
 			"gba": 149
 		},
 		"steal": [
-			"Brigand's Glove (12.5%)"
+			"Brigand’s Glove (12.5%)"
 		],
 		"icon": "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",
 		"id": 149
@@ -3533,7 +3533,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Mt. Zozo",
 			"Veldt"
 		],
@@ -3558,7 +3558,7 @@
 		"drops": [],
 		"location": [
 			"Cave on the Veldt",
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt"
 		],
 		"names": {
@@ -3627,7 +3627,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Owzer's Mansion",
+			"Owzer’s Mansion",
 			"Veldt"
 		],
 		"names": {
@@ -3649,7 +3649,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Owzer's Mansion",
+			"Owzer’s Mansion",
 			"Veldt"
 		],
 		"names": {
@@ -3671,7 +3671,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Owzer's Mansion",
+			"Owzer’s Mansion",
 			"Veldt"
 		],
 		"names": {
@@ -3693,7 +3693,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Owzer's Mansion",
+			"Owzer’s Mansion",
 			"Veldt"
 		],
 		"names": {
@@ -3717,7 +3717,7 @@
 			"Super Ball (87.5%)"
 		],
 		"location": [
-			"Owzer's Mansion",
+			"Owzer’s Mansion",
 			"Veldt"
 		],
 		"names": {
@@ -3739,7 +3739,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Owzer's Mansion",
+			"Owzer’s Mansion",
 			"Veldt"
 		],
 		"names": {
@@ -3761,7 +3761,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Owzer's Mansion",
+			"Owzer’s Mansion",
 			"Veldt"
 		],
 		"names": {
@@ -3809,7 +3809,7 @@
 			"Phoenix Down (87.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Phoenix Cave",
 			"Veldt"
 		],
@@ -3880,7 +3880,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Phoenix Cave",
 			"Veldt"
 		],
@@ -3930,7 +3930,7 @@
 			"Phoenix Down (87.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Phoenix Cave",
 			"Veldt"
 		],
@@ -3953,7 +3953,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Phoenix Cave",
 			"Veldt"
 		],
@@ -3978,7 +3978,7 @@
 			"Celestriad (12.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"NE Continent (Forest)",
 			"Veldt"
 		],
@@ -4003,7 +4003,7 @@
 			"Impartisan (87.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"NE Continent (Forest)",
 			"Veldt"
 		],
@@ -4026,7 +4026,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"NE Continent",
 			"Veldt"
 		],
@@ -4072,7 +4072,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Maranda Desert",
 			"Veldt"
 		],
@@ -4097,7 +4097,7 @@
 			"Gold Needle (87.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Maranda Desert",
 			"Veldt"
 		],
@@ -4213,7 +4213,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"NE Continent",
 			"Near Maranda and Zozo",
 			"Veldt"
@@ -4239,7 +4239,7 @@
 			"Heavy Lance (87.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Narshe",
 			"Veldt"
 		],
@@ -4411,9 +4411,9 @@
 			"Tintinnabulum (87.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt",
-			"Yeti's Cave"
+			"Yeti’s Cave"
 		],
 		"names": {
 			"gba": "Tonberry",
@@ -4434,9 +4434,9 @@
 			"Green Cherry (87.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt",
-			"Yeti's Cave"
+			"Yeti’s Cave"
 		],
 		"names": {
 			"gba": "Onion Dasher",
@@ -4458,7 +4458,7 @@
 		],
 		"location": [
 			"Veldt",
-			"Yeti's Cave"
+			"Yeti’s Cave"
 		],
 		"names": {
 			"gba": "Anemone",
@@ -4481,7 +4481,7 @@
 		],
 		"location": [
 			"Veldt",
-			"Yeti's Cave"
+			"Yeti’s Cave"
 		],
 		"names": {
 			"gba": "Illuyankas",
@@ -4503,7 +4503,7 @@
 		],
 		"location": [
 			"Veldt",
-			"Yeti's Cave"
+			"Yeti’s Cave"
 		],
 		"names": {
 			"gba": "Knotty",
@@ -4526,7 +4526,7 @@
 		],
 		"location": [
 			"Veldt",
-			"Yeti's Cave"
+			"Yeti’s Cave"
 		],
 		"names": {
 			"gba": "Tzakmaqiel",
@@ -4564,7 +4564,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Thamasa Island",
 			"Veldt"
 		],
@@ -4631,9 +4631,9 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt",
-			"Zone Eater's Belly"
+			"Zone Eater’s Belly"
 		],
 		"names": {
 			"gba": "Covert",
@@ -4658,7 +4658,7 @@
 		],
 		"location": [
 			"Veldt",
-			"Zone Eater's Belly"
+			"Zone Eater’s Belly"
 		],
 		"names": {
 			"gba": "Kamui",
@@ -4680,9 +4680,9 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt",
-			"Zone Eater's Belly"
+			"Zone Eater’s Belly"
 		],
 		"names": {
 			"gba": "Wartpuck",
@@ -4704,9 +4704,9 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt",
-			"Zone Eater's Belly"
+			"Zone Eater’s Belly"
 		],
 		"names": {
 			"gba": "Shambling Corpse",
@@ -4728,9 +4728,9 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt",
-			"Zone Eater's Belly"
+			"Zone Eater’s Belly"
 		],
 		"names": {
 			"gba": "Amduscias",
@@ -4752,9 +4752,9 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt",
-			"Zone Eater's Belly"
+			"Zone Eater’s Belly"
 		],
 		"names": {
 			"gba": "Baalzephon",
@@ -4838,7 +4838,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Dreamscape",
 			"Veldt"
 		],
@@ -5001,7 +5001,7 @@
 		"drops": [],
 		"location": [
 			"Ancient Castle",
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt"
 		],
 		"names": {
@@ -5090,7 +5090,7 @@
 		"drops": [],
 		"location": [
 			"Cave to Ancient Castle",
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt"
 		],
 		"names": {
@@ -5112,7 +5112,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Cultists' Tower",
+			"Cultists’ Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5137,7 +5137,7 @@
 			"Ether (12.5%)"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Level 10 Magic",
@@ -5158,7 +5158,7 @@
 			"Ether (12.5%)"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Level 20 Magic",
@@ -5179,7 +5179,7 @@
 			"Ether (12.5%)"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Level 30 Magic",
@@ -5200,7 +5200,7 @@
 			"Ether (12.5%)"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Level 40 Magic",
@@ -5221,7 +5221,7 @@
 			"Ether (12.5%)"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Level 50 Magic",
@@ -5242,7 +5242,7 @@
 			"Ether (12.5%)"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Level 60 Magic",
@@ -5263,7 +5263,7 @@
 			"Tincture (12.5%)"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Level 70 Magic",
@@ -5284,7 +5284,7 @@
 			"Ether (12.5%)"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Level 80 Magic",
@@ -5305,7 +5305,7 @@
 			"Ether (12.5%)"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Level 90 Magic",
@@ -5326,7 +5326,7 @@
 			"Teleport Stone (87.5%)"
 		],
 		"location": [
-			"Ebot's Rock",
+			"Ebot’s Rock",
 			"Veldt"
 		],
 		"names": {
@@ -5350,7 +5350,7 @@
 			"Teleport Stone (87.5%)"
 		],
 		"location": [
-			"Ebot's Rock",
+			"Ebot’s Rock",
 			"Veldt"
 		],
 		"names": {
@@ -5374,7 +5374,7 @@
 			"Teleport Stone (87.5%)"
 		],
 		"location": [
-			"Ebot's Rock",
+			"Ebot’s Rock",
 			"Veldt"
 		],
 		"names": {
@@ -5398,7 +5398,7 @@
 			"Teleport Stone (87.5%)"
 		],
 		"location": [
-			"Ebot's Rock",
+			"Ebot’s Rock",
 			"Veldt"
 		],
 		"names": {
@@ -5422,7 +5422,7 @@
 			"Teleport Stone (87.5%)"
 		],
 		"location": [
-			"Ebot's Rock",
+			"Ebot’s Rock",
 			"Veldt"
 		],
 		"names": {
@@ -5446,7 +5446,7 @@
 			"Teleport Stone (87.5%)"
 		],
 		"location": [
-			"Ebot's Rock",
+			"Ebot’s Rock",
 			"Veldt"
 		],
 		"names": {
@@ -5470,8 +5470,8 @@
 			"Teleport Stone (87.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Ebot's Rock",
+			"Dragon’s Neck Coliseum",
+			"Ebot’s Rock",
 			"Veldt"
 		],
 		"names": {
@@ -5495,7 +5495,7 @@
 			"Green Cherry"
 		],
 		"location": [
-			"Dragon's Neck Coliseum"
+			"Dragon’s Neck Coliseum"
 		],
 		"names": {
 			"gba": "Siegfried",
@@ -5512,8 +5512,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5535,8 +5535,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5558,8 +5558,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5581,8 +5581,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5606,7 +5606,7 @@
 			"Magicite Shard (87.5%)"
 		],
 		"location": [
-			"Kefka's Tower",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5628,8 +5628,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5651,8 +5651,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5674,8 +5674,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5697,8 +5697,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5720,8 +5720,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5743,8 +5743,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5766,8 +5766,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5789,8 +5789,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5812,8 +5812,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5835,8 +5835,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5858,8 +5858,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5881,8 +5881,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5904,7 +5904,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5926,8 +5926,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5949,8 +5949,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5970,8 +5970,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -5993,8 +5993,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -6016,8 +6016,8 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragon's Neck Coliseum",
-			"Kefka's Tower",
+			"Dragon’s Neck Coliseum",
+			"Kefka’s Tower",
 			"Veldt"
 		],
 		"names": {
@@ -6039,7 +6039,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Prometheus",
@@ -6058,7 +6058,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Zurvan"
@@ -6076,7 +6076,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Vilia"
@@ -6096,7 +6096,7 @@
 			"Dragon Horn (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Great Dragon"
@@ -6117,7 +6117,7 @@
 			"Lich Ring (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Abaddon"
@@ -6135,7 +6135,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Dragon Aevis"
@@ -6153,7 +6153,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Dinozombie"
@@ -6174,7 +6174,7 @@
 			"Red Jacket (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Death Rider"
@@ -6190,7 +6190,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Shield Dragon"
@@ -6206,7 +6206,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Maximera"
@@ -6224,7 +6224,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Hexadragon"
@@ -6243,7 +6243,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Magic Dragon"
@@ -6263,7 +6263,7 @@
 			"X-Potion (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Armodullahan"
@@ -6283,7 +6283,7 @@
 			"X-Ether (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Crystal Dragon"
@@ -6510,7 +6510,7 @@
 			"Veldt"
 		],
 		"names": {
-			"gba": "Hell's Rider",
+			"gba": "Hell’s Rider",
 			"snes": "Rider"
 		},
 		"rage": [
@@ -6551,7 +6551,7 @@
 	{
 		"drops": [
 			"Twist Headband (87.5%)",
-			"Thief's Knife (12.5%)"
+			"Thief’s Knife (12.5%)"
 		],
 		"location": [
 			"Zozo"
@@ -6566,7 +6566,7 @@
 		},
 		"steal": [
 			"Jeweled Ring (87.5%)",
-			"Thief's Bracer (12.5%)"
+			"Thief’s Bracer (12.5%)"
 		],
 		"icon": "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",
 		"id": 288
@@ -7050,7 +7050,7 @@
 			"Dragon Claws"
 		],
 		"location": [
-			"Darill's Tomb"
+			"Darill’s Tomb"
 		],
 		"names": {
 			"gba": "Angler Whelk (Shell)",
@@ -7069,7 +7069,7 @@
 			"Dragon Claws"
 		],
 		"location": [
-			"Darill's tomb"
+			"Darill’s tomb"
 		],
 		"names": {
 			"gba": "Angler Whelk (Head)",
@@ -7086,7 +7086,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Darill's Tomb"
+			"Darill’s Tomb"
 		],
 		"names": {
 			"gba": "Dullahan",
@@ -7109,7 +7109,7 @@
 		],
 		"location": [
 			"Cave on the Veldt",
-			"Dragon's Neck Coliseum",
+			"Dragon’s Neck Coliseum",
 			"Veldt"
 		],
 		"names": {
@@ -7153,7 +7153,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Owzer's Mansion"
+			"Owzer’s Mansion"
 		],
 		"names": {
 			"gba": "Chadarnook (Goddess)",
@@ -7189,7 +7189,7 @@
 			"Minerva Bustier (12.5%)"
 		],
 		"location": [
-			"Yeti's Cave"
+			"Yeti’s Cave"
 		],
 		"names": {
 			"gba": "Tonberries",
@@ -7208,7 +7208,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Yeti's Cave"
+			"Yeti’s Cave"
 		],
 		"names": {
 			"gba": "Yeti",
@@ -7335,7 +7335,7 @@
 	},
 	{
 		"drops": [
-			"Master's Scroll"
+			"Master’s Scroll"
 		],
 		"location": [
 			"Ancient Castle"
@@ -7360,7 +7360,7 @@
 			"Megalixir"
 		],
 		"location": [
-			"Cultists' Tower"
+			"Cultists’ Tower"
 		],
 		"names": {
 			"gba": "Magic Master",
@@ -7397,7 +7397,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Ebot's Rock"
+			"Ebot’s Rock"
 		],
 		"names": {
 			"gba": "Erebus (Bottom Right)",
@@ -7414,7 +7414,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Ebot's Rock"
+			"Ebot’s Rock"
 		],
 		"names": {
 			"gba": "Erebus (Bottom Left)",
@@ -7431,7 +7431,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Ebot's Rock"
+			"Ebot’s Rock"
 		],
 		"names": {
 			"gba": "Erebus (Top Right)",
@@ -7448,7 +7448,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Ebot's Rock"
+			"Ebot’s Rock"
 		],
 		"names": {
 			"gba": "Erebus (Bottom Right)",
@@ -7505,7 +7505,7 @@
 			"Crystal Orb"
 		],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Gold Dragon",
@@ -7583,7 +7583,7 @@
 			"Muscle Belt"
 		],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Skull Dragon",
@@ -7600,7 +7600,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Cultists' Tower",
+			"Cultists’ Tower",
 			"Veldt"
 		],
 		"names": {
@@ -7658,7 +7658,7 @@
 			"Genji Armor (12.5%)"
 		],
 		"location": [
-			"Dragon's Neck Coliseum"
+			"Dragon’s Neck Coliseum"
 		],
 		"names": {
 			"gba": "Gilgamesh"
@@ -7677,7 +7677,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Inferno",
@@ -7696,7 +7696,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Rahu",
@@ -7715,7 +7715,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Ketu",
@@ -7734,7 +7734,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Ultima Buster",
@@ -7754,7 +7754,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Guardian",
@@ -7776,7 +7776,7 @@
 			"Mutsunokami"
 		],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Fiend",
@@ -7797,7 +7797,7 @@
 			"Excalibur"
 		],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Goddess",
@@ -7818,7 +7818,7 @@
 			"Radiant Lance"
 		],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Demon",
@@ -7856,7 +7856,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Long Arm",
@@ -7875,7 +7875,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Visage",
@@ -7894,7 +7894,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Tiger",
@@ -7913,7 +7913,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Machine",
@@ -7932,7 +7932,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Magic",
@@ -7951,7 +7951,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Power",
@@ -7970,7 +7970,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Lady",
@@ -7989,7 +7989,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Rest",
@@ -8008,7 +8008,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Kefka's Tower"
+			"Kefka’s Tower"
 		],
 		"names": {
 			"gba": "Kefka",
@@ -8029,7 +8029,7 @@
 			"Angel Brush (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Plague"
@@ -8047,7 +8047,7 @@
 			"Oborozuki (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Flan Princess"
@@ -8066,7 +8066,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Neslug (Head)"
@@ -8082,7 +8082,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Neslug (Shell)"
@@ -8098,7 +8098,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Earth Eater"
@@ -8118,7 +8118,7 @@
 			"Growth Egg (12.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Gargantua"
@@ -8136,7 +8136,7 @@
 			"Potion (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Malboro Menace"
@@ -8157,7 +8157,7 @@
 			"Phoenix Down (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Abyss Worm"
@@ -8177,7 +8177,7 @@
 			"Phoenix Down (87.5%)"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Dark Behemoth"
@@ -8198,7 +8198,7 @@
 			"Apocalypse"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Red Dragon"
@@ -8218,7 +8218,7 @@
 			"Save the Queen"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Blue Dragon"
@@ -8238,7 +8238,7 @@
 			"Zwill Crossblade"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Gold Dragon"
@@ -8258,7 +8258,7 @@
 			"Final Trump"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Ice Dragon"
@@ -8276,7 +8276,7 @@
 			"Longinus"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Storm Dragon"
@@ -8296,7 +8296,7 @@
 			"Godhand"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Earth Dragon"
@@ -8316,7 +8316,7 @@
 			"Scorpion Tail"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Skull Dragon"
@@ -8334,7 +8334,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Holy Dragon"
@@ -8352,7 +8352,7 @@
 	{
 		"drops": [],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Kaiser Dragon"
@@ -8372,7 +8372,7 @@
 			"Murakumo"
 		],
 		"location": [
-			"Dragons' Den"
+			"Dragons’ Den"
 		],
 		"names": {
 			"gba": "Omega Weapon"
@@ -8547,7 +8547,7 @@
 		],
 		"id": 5,
 		"innateAbilities": "Weak: Poison\nNote: Human",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Samurai",
 		"regularAttack": "Kiku-ichimonji",
 		"specialAttack": "Lullaby",
@@ -8565,7 +8565,7 @@
 		],
 		"id": 6,
 		"innateAbilities": "Weak: Fire, Holy\nAbsorb: Poison\nNote: Human, Undead",
-		"location": "Daryl's Tomb",
+		"location": "Daryl’s Tomb",
 		"name": "Borghese",
 		"regularAttack": "Partisan",
 		"specialAttack": "Holy",
@@ -8602,7 +8602,7 @@
 		],
 		"id": 8,
 		"innateAbilities": "Weak: Poison\nNote: Human",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Yojimbo",
 		"regularAttack": "Kiku-ichimonji",
 		"specialAttack": "Shock",
@@ -8639,7 +8639,7 @@
 		],
 		"id": 10,
 		"innateAbilities": "Weak: Poison\nNote: 0 MP equals death, Human",
-		"location": "Owser's House",
+		"location": "Owser’s House",
 		"name": "Misty",
 		"regularAttack": "Ice Rod",
 		"specialAttack": "Cura",
@@ -8657,7 +8657,7 @@
 		],
 		"id": 11,
 		"innateAbilities": "Weak: Ice, Holy, Water\nGrants: Float\nNote: 0 MP equals death, Human",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Al Jabr",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Thundaga",
@@ -8713,7 +8713,7 @@
 		],
 		"id": 14,
 		"innateAbilities": "Weak: Holy\nNote: 0 MP equals death, Human",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Dark Force",
 		"regularAttack": "Ice Rod",
 		"specialAttack": "Tsunami",
@@ -8755,7 +8755,7 @@
 		"location": "Phantom Forest and Phantom Train",
 		"name": "Oversoul",
 		"regularAttack": "Ice Rod",
-		"specialAttack": "Will 'o the Wisp",
+		"specialAttack": "Will ’o the Wisp",
 		"statusImmunity": "Blind, Zombie, Poison, Imp, Petrify, Silence, Berserk, Sleep",
 		"obtainable": {
 		"gba": true,
@@ -8769,7 +8769,7 @@
 		],
 		"id": 17,
 		"innateAbilities": "Weak: Holy, Fire\nAbsorb: Poison\nNote: 0 MP equals death, Undead",
-		"location": "Daryl's Tomb",
+		"location": "Daryl’s Tomb",
 		"name": "Skeletal Horror",
 		"regularAttack": "Dragon Claw",
 		"specialAttack": "Banish",
@@ -8881,7 +8881,7 @@
 		],
 		"id": 23,
 		"innateAbilities": "Weak: Holy",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Muud Suud",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Snowstorm",
@@ -9031,7 +9031,7 @@
 		],
 		"id": 31,
 		"innateAbilities": "Weak: Holy",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Suriander",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Aqua Breath",
@@ -9144,7 +9144,7 @@
 		],
 		"id": 37,
 		"innateAbilities": "Absorb: Holy",
-		"location": "Fanatic's Tower",
+		"location": "Fanatic’s Tower",
 		"name": "Holy Dragon",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Holy",
@@ -9162,7 +9162,7 @@
 		],
 		"id": 38,
 		"innateAbilities": "Grants: Float\nNote: 0 MP equals death",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Fiend Dragon",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Northern Cross",
@@ -9419,7 +9419,7 @@
 		],
 		"id": 52,
 		"innateAbilities": "Weak: Fire\nAbsorb: Water",
-		"location": "Owser's House",
+		"location": "Owser’s House",
 		"name": "Rafflesia",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Entice",
@@ -9629,12 +9629,12 @@
 	{
 		"enemy": 286,
 		"formations": [
-		"#11, Roll 7 (of 7); Grouping: Hell's Rider"
+		"#11, Roll 7 (of 7); Grouping: Hell’s Rider"
 		],
 		"id": 64,
 		"innateAbilities": "Weak: Fire, Poison\nNote: Human",
 		"location": "Narshe Battle",
-		"name": "Hell's Rider",
+		"name": "Hell’s Rider",
 		"regularAttack": "Trident",
 		"specialAttack": "Venomist",
 		"statusImmunity": "Zombie, Invisible, Imp, Confuse",
@@ -9946,7 +9946,7 @@
 		],
 		"id": 81,
 		"innateAbilities": "Weak: Fire\nNote: 0 MP equals death",
-		"location": "Owser's House",
+		"location": "Owser’s House",
 		"name": "Still Life",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Lullaby",
@@ -10019,7 +10019,7 @@
 		],
 		"id": 85,
 		"innateAbilities": "Weak: Fire, Lightning\nAbsorb: Water",
-		"location": "Umaro's Cave",
+		"location": "Umaro’s Cave",
 		"name": "Tonberry",
 		"regularAttack": "Kiku-ichimonji",
 		"specialAttack": "Break",
@@ -10036,7 +10036,7 @@
 		],
 		"id": 86,
 		"innateAbilities": "Absorb: Fire, Ice, Lightning, Wind, Earth, Water, Poison, Holy\nNote: 0 MP equals death",
-		"location": "Fanatic's Tower",
+		"location": "Fanatic’s Tower",
 		"name": "Magic Urn",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Curaga",
@@ -10053,7 +10053,7 @@
 		],
 		"id": 87,
 		"innateAbilities": "Absorb: Poison\nGrants: Float\nNote: 0 MP equals death",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Mover",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Meltdown",
@@ -10259,7 +10259,7 @@
 		],
 		"id": 98,
 		"innateAbilities": "Weak: Fire\nAbsorb: Poison, Water",
-		"location": "Daryl's Tomb",
+		"location": "Daryl’s Tomb",
 		"name": "Malboro",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Bad Breath",
@@ -10369,7 +10369,7 @@
 		],
 		"id": 104,
 		"innateAbilities": "Weak: Holy\nAbsorb: Poison\nNote: Human",
-		"location": "Zone Eater's Belly",
+		"location": "Zone Eater’s Belly",
 		"name": "Covert",
 		"regularAttack": "Kiku-ichimonji",
 		"specialAttack": "Wind Slash",
@@ -10388,7 +10388,7 @@
 		],
 		"id": 105,
 		"innateAbilities": "Weak: Lightning, Poison\nNote: Human",
-		"location": "Zone Eater's Belly",
+		"location": "Zone Eater’s Belly",
 		"name": "Kamui",
 		"regularAttack": "Dragon Claw",
 		"specialAttack": "Snowstorm",
@@ -10424,7 +10424,7 @@
 		],
 		"id": 107,
 		"innateAbilities": "Weak: Poison\nNote: 0 MP equals death, Human",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Cherry",
 		"regularAttack": "Sasuke",
 		"specialAttack": "Holy",
@@ -10520,7 +10520,7 @@
 		],
 		"id": 112,
 		"innateAbilities": "Weak: Fire, Holy\nAbsorb: Poison\nGrants: Sap, Float\nNote: 0 MP equals death, Undead",
-		"location": "Daryl's Tomb",
+		"location": "Daryl’s Tomb",
 		"name": "Cloudwraith",
 		"regularAttack": "Ice Rod",
 		"specialAttack": "Flare",
@@ -10665,7 +10665,7 @@
 		],
 		"id": 120,
 		"innateAbilities": "Weak: Fire, Water",
-		"location": "Owser's House",
+		"location": "Owser’s House",
 		"name": "Coeurl Cat",
 		"regularAttack": "Dragon Claw",
 		"specialAttack": "Blaster",
@@ -10776,7 +10776,7 @@
 		],
 		"id": 126,
 		"innateAbilities": "Weak: Fire",
-		"location": "Zone Eater's Belly",
+		"location": "Zone Eater’s Belly",
 		"name": "Wartpuck",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Rasp",
@@ -10830,7 +10830,7 @@
 		],
 		"id": 129,
 		"innateAbilities": "Weak: Ice, Water",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Vector Lythos",
 		"regularAttack": "Unarmed",
 		"specialAttack": "White Wind",
@@ -10902,7 +10902,7 @@
 		],
 		"id": 133,
 		"innateAbilities": "Weak: Ice",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Primeval Dragon",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Firaga",
@@ -10920,7 +10920,7 @@
 		],
 		"id": 134,
 		"innateAbilities": "Weak: Fire, Holy\nGrants: Poison",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Weredragon",
 		"regularAttack": "Dragon Claw",
 		"specialAttack": "Death",
@@ -11137,7 +11137,7 @@
 		],
 		"id": 146,
 		"innateAbilities": "Weak: Fire, Holy\nAbsorb: Poison\nGrants: Shell\nNote: Undead",
-		"location": "Daryl's Tomb",
+		"location": "Daryl’s Tomb",
 		"name": "Exoray",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Venomist",
@@ -11155,7 +11155,7 @@
 		],
 		"id": 147,
 		"innateAbilities": "Weak: Fire",
-		"location": "Owser's House",
+		"location": "Owser’s House",
 		"name": "Crusher",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Lifeshaver",
@@ -11209,7 +11209,7 @@
 		],
 		"id": 150,
 		"innateAbilities": "Weak: Lightning, Water, Wind\nGrants: Float",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Schmidt",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Mega Berserk",
@@ -11317,7 +11317,7 @@
 		],
 		"id": 156,
 		"innateAbilities": "Weak: Ice\nAbsorb: Earth",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Landworm",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Magnitude 8",
@@ -11352,7 +11352,7 @@
 		],
 		"id": 158,
 		"innateAbilities": "Weak: Lightning, Water",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Pluto Armor",
 		"regularAttack": "Trident",
 		"specialAttack": "Magitek Laser",
@@ -11370,7 +11370,7 @@
 		],
 		"id": 159,
 		"innateAbilities": "Weak: Lightning, Water\nNote: Human",
-		"location": "Umaro's Cave",
+		"location": "Umaro’s Cave",
 		"name": "Onion Dasher",
 		"regularAttack": "Dagger",
 		"specialAttack": "Traveler",
@@ -11423,7 +11423,7 @@
 		],
 		"id": 162,
 		"innateAbilities": "Weak: Lightning, Water",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Gamma",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Dischord",
@@ -11605,7 +11605,7 @@
 		],
 		"id": 172,
 		"innateAbilities": "Note: 0 MP equals death, Human",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Alluring Rider",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Doom",
@@ -11623,7 +11623,7 @@
 		],
 		"id": 173,
 		"innateAbilities": "Weak: Fire, Holy\nAbsorb: Poison\nGrants: Float\nNote: 0 MP equals death, Undead",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Pandora",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Revenge Blast",
@@ -11641,7 +11641,7 @@
 		],
 		"id": 174,
 		"innateAbilities": "Weak: Poison\nNote: 0 MP equals death, Human",
-		"location": "Owser's House",
+		"location": "Owser’s House",
 		"name": "Blade Dancer",
 		"regularAttack": "Sasuke",
 		"specialAttack": "Osmose",
@@ -11713,7 +11713,7 @@
 		],
 		"id": 178,
 		"innateAbilities": "Weak: Water\nGrants: Float\nNote: 0 MP equals death",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Parasite",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Gigavolt",
@@ -11766,7 +11766,7 @@
 		],
 		"id": 181,
 		"innateAbilities": "Weak: Fire\nAbsorb: Lightning, Water",
-		"location": "Umaro's Cave",
+		"location": "Umaro’s Cave",
 		"name": "Anemone",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Gigavolt",
@@ -11821,7 +11821,7 @@
 		],
 		"id": 184,
 		"innateAbilities": "Weak: Fire\nAbsorb: Ice, Holy, Poison, Wind, Earth, Water, Lightning",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Great Malboro",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Bio",
@@ -11929,7 +11929,7 @@
 		],
 		"id": 190,
 		"innateAbilities": "Weak: Holy\nAbsorb: Poison\nGrants: Haste\nNote: Human",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Outsider",
 		"regularAttack": "Kiku-ichimonji",
 		"specialAttack": "Holy",
@@ -11947,7 +11947,7 @@
 		],
 		"id": 191,
 		"innateAbilities": "Weak: Poison\nGrants: Haste\nNote: 0 MP equals death, Human",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Coco",
 		"regularAttack": "Sasuke",
 		"specialAttack": "Overture",
@@ -11999,7 +11999,7 @@
 		],
 		"id": 194,
 		"innateAbilities": "Note: Human",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Demon Knight",
 		"regularAttack": "Kiku-ichimonji",
 		"specialAttack": "Shockwave",
@@ -12074,7 +12074,7 @@
 		"location": "Mount Zozo",
 		"name": "Devil Fist",
 		"regularAttack": "Dragon Claw",
-		"specialAttack": "Will o' the Wisp",
+		"specialAttack": "Will o’ the Wisp",
 		"statusImmunity": "Petrify, Death, Doom, Berserk, Confuse",
 		"obtainable": {
 		"gba": true,
@@ -12090,7 +12090,7 @@
 		],
 		"id": 199,
 		"innateAbilities": "Weak: Fire\nAbsorb: Lightning\nGrants: Protect\nNote: 0 MP equals death",
-		"location": "Umaro's Cave",
+		"location": "Umaro’s Cave",
 		"name": "Illuyankas",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Gigavolt",
@@ -12146,7 +12146,7 @@
 		],
 		"id": 202,
 		"innateAbilities": "Weak: Fire\nGrants: Protect",
-		"location": "Umaro's Cave",
+		"location": "Umaro’s Cave",
 		"name": "Knotty",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Stone",
@@ -12200,7 +12200,7 @@
 		],
 		"id": 205,
 		"innateAbilities": "Weak: Fire\nGrants: Float",
-		"location": "Owser's House",
+		"location": "Owser’s House",
 		"name": "Caladrius",
 		"regularAttack": "Ice Rod",
 		"specialAttack": "Acid Rain",
@@ -12218,7 +12218,7 @@
 		],
 		"id": 206,
 		"innateAbilities": "Weak: Ice",
-		"location": "Umaro's Cave",
+		"location": "Umaro’s Cave",
 		"name": "Tzakmaqiel",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Imp",
@@ -12429,7 +12429,7 @@
 		],
 		"id": 218,
 		"innateAbilities": "Weak: Lightning, Water",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Duel Armor",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Megavolt",
@@ -12485,7 +12485,7 @@
 		],
 		"id": 221,
 		"innateAbilities": "Weak: Fire, Holy\nAbsorb: Poison\nGrants: Float\nNote: 0 MP equals death, Undead",
-		"location": "Zone Eater's Belly",
+		"location": "Zone Eater’s Belly",
 		"name": "Shambling Corpse",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Thundaga",
@@ -12559,7 +12559,7 @@
 		],
 		"id": 225,
 		"innateAbilities": "None",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Great Behemoth",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Meteor",
@@ -12629,7 +12629,7 @@
 		],
 		"id": 229,
 		"innateAbilities": "None",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Vector Chimera",
 		"regularAttack": "Trident",
 		"specialAttack": "Aqua Breath",
@@ -12741,7 +12741,7 @@
 		],
 		"id": 235,
 		"innateAbilities": "Weak: Water, Lightning",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Fortis",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Fireball",
@@ -12792,7 +12792,7 @@
 		],
 		"id": 238,
 		"innateAbilities": "Weak: Lightning, Water\nGrants: Float",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Junk",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Transfusion",
@@ -12847,7 +12847,7 @@
 		],
 		"id": 241,
 		"innateAbilities": "Weak: Poison\nNote: 0 MP equals death, Human",
-		"location": "Zone Eater's Belly",
+		"location": "Zone Eater’s Belly",
 		"name": "Amduscias",
 		"regularAttack": "Dagger",
 		"specialAttack": "Slowga",
@@ -12954,7 +12954,7 @@
 		],
 		"id": 247,
 		"innateAbilities": "Weak: Lightning, Water\nAbsorb: Poison\nGrants: Float",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "InnoSent",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Venomist",
@@ -13009,7 +13009,7 @@
 		],
 		"id": 250,
 		"innateAbilities": "Weak: Fire, Holy\nAbsorb: Poison\nNote: Undead",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Daedalus",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Meltdown",
@@ -13028,7 +13028,7 @@
 		],
 		"id": 251,
 		"innateAbilities": "Weak: Fire\nAbsorb: Ice, Poison, Lightning, Earth, Wind, Water\nGrants: Float\nNote: 0 MP equals death, Human",
-		"location": "Zone Eater's Belly",
+		"location": "Zone Eater’s Belly",
 		"name": "Baalzephon",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Blizzaga",
@@ -13047,7 +13047,7 @@
 		],
 		"id": 252,
 		"innateAbilities": "None",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Ahriman",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Roulette*",
@@ -13065,7 +13065,7 @@
 		],
 		"id": 253,
 		"innateAbilities": "Weak: Lightning, Water",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Death Machine",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Death",
@@ -13083,7 +13083,7 @@
 		],
 		"id": 254,
 		"innateAbilities": "Weak: Lightning, Water",
-		"location": "Kefka's Tower",
+		"location": "Kefka’s Tower",
 		"name": "Metal Hitman",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Dischord",
@@ -13100,7 +13100,7 @@
 		],
 		"id": 255,
 		"innateAbilities": "Immune: Poison, Wind, Poison\nWeak: Lightning, Holy, Water",
-		"location": "Cyan's Dream",
+		"location": "Cyan’s Dream",
 		"name": "Io",
 		"regularAttack": "Unarmed",
 		"specialAttack": "Flare Star",
@@ -13117,7 +13117,7 @@
 		],
 		"id": 256,
 		"innateAbilities": "Weak: Fire\nAbsorb: Water",
-		"location": "Umaro's Cave",
+		"location": "Umaro’s Cave",
 		"name": "Tonberries",
 		"regularAttack": "Dagger",
 		"specialAttack": "Knife",
@@ -13779,6 +13779,2994 @@
 				"gba": "Snowman Rondo",
 				"snes": "Snowman Jazz"
 			}
+		}
+	],
+	"treasure": [
+		{
+			"areas": [
+			{
+				"title": "Narshe, Terra’s escape",
+				"items": [
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Clock",
+					"location": "Arvis’ house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Narshe, beginner’s classroom",
+				"items": [
+				{
+					"names": {
+						"gba": "Potion",
+						"snes": "Tonic"
+					},
+					"type": "Chest",
+					"location": "Adv. Battle Tactics (west room)",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Sleeping Bag",
+						"snes": "Sleeping Bag"
+					},
+					"type": "Chest",
+					"location": "Battle Tactics (middle room)",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Potion",
+						"snes": "Tonic"
+					},
+					"type": "Chest",
+					"location": "Environmental Science (east room)",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture"
+					},
+					"type": "Pot",
+					"location": "Environmental Science (east room)",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Figaro Castle",
+				"items": [
+				{
+					"names": {
+						"gba": "Potion",
+						"snes": "Tonic"
+					},
+					"type": "Chest",
+					"location": "Eastern shop",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Antidote",
+						"snes": "Antidote"
+					},
+					"type": "Chest",
+					"location": "Eastern shop",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Gold Needle",
+						"snes": "Soft"
+					},
+					"type": "Chest",
+					"location": "Western shop",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Chest",
+					"location": "Northern tower",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "South Figaro, outdoors",
+				"items": [
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Barrel",
+					"location": "By back entrance to rich house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "South Figaro, indoors",
+				"items": [
+				{
+					"names": {
+						"gba": "Potion",
+						"snes": "Tonic"
+					},
+					"type": "Bucket",
+					"location": "Basement in old man’s house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Clock",
+					"location": "Basement behind rich man’s house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hyper Wrist",
+						"snes": "Hyper Wrist"
+					},
+					"type": "Chest",
+					"location": "Hidden tunnel below rich house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hermes Sandals",
+						"snes": "RunningShoes"
+					},
+					"type": "Chest",
+					"location": "Hidden tunnel below rich house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "500 Gil",
+						"snes": "500 GP"
+					},
+					"type": "Chest",
+					"location": "Clock room below rich house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "1000 Gil",
+						"snes": "1000 GP"
+					},
+					"type": "Chest",
+					"location": "Clock room below rich house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "1500 Gil",
+						"snes": "1500 GP"
+					},
+					"type": "Chest",
+					"location": "Clock room below rich house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "Clock room below rich house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Sabin’s house",
+				"items": [
+				{
+					"names": {
+						"gba": "Potion",
+						"snes": "Tonic"
+					},
+					"type": "Bucket",
+					"location": "Indoors, next to the stove",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Mt. Kolts",
+				"items": [
+				{
+					"names": {
+						"gba": "Main Gauche",
+						"snes": "Guardian"
+					},
+					"type": "Chest",
+					"location": "Hidden passage SE of main cave",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Gigas Glove",
+						"snes": "Atlas Armlet"
+					},
+					"type": "Chest",
+					"location": "Hidden passage NE of main cave",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Tent",
+						"snes": "Tent"
+					},
+					"type": "Chest",
+					"location": "Thru first cave after bridge",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Tent",
+						"snes": "Tent"
+					},
+					"type": "Chest",
+					"location": "Cave after boss fight",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Returners’ Hideout",
+				"items": [
+				{
+					"names": {
+						"gba": "Green Cherry",
+						"snes": "Green Cherry"
+					},
+					"type": "Pot",
+					"location": "Next to statue in main room",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Hi-Potion",
+						"snes": "Potion"
+					},
+					"type": "Chest",
+					"location": "Banon’s room",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Chest",
+					"location": "Terra’s room",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Chest",
+					"location": "Storeroom",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Air Knife",
+						"snes": "Air Lancet"
+					},
+					"type": "Chest",
+					"location": "Storeroom",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Knight’s Code",
+						"snes": "True Knight"
+					},
+					"type": "Chest",
+					"location": "Storeroom",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Antidote",
+						"snes": "Antidote"
+					},
+					"type": "Bucket",
+					"location": "North wall of storeroom",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture"
+					},
+					"type": "Pot",
+					"location": "North wall of storeroom",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "White Cape",
+						"snes": "White Cape"
+					},
+					"type": "Chest",
+					"location": "Passage in east wall of storeroom",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			}
+			],
+			"title": "World Of Balance"
+		},
+		{
+			"areas": [
+			{
+				"title": "Imperial Camp",
+				"items": [
+				{
+					"names": {
+						"gba": "Star Pendant",
+						"snes": "Star Pendant"
+					},
+					"type": "Chest",
+					"location": "Northeastern tent",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Mythril Glove",
+						"snes": "MithrilGlove"
+					},
+					"type": "Chest",
+					"location": "Southwestern tent, right side",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Green Beret",
+						"snes": "Green Beret"
+					},
+					"type": "Chest",
+					"location": "Southwestern tent, left side",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Barrier Ring",
+						"snes": "Barrier Ring"
+					},
+					"type": "Chest",
+					"location": "Behind the southwestern tent",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Doma Castle",
+				"items": [
+				{
+					"names": {
+						"gba": "Remedy",
+						"snes": "Remedy"
+					},
+					"type": "Pot",
+					"location": "East end of south hallway",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Phantom Train",
+				"items": [
+				{
+					"names": {
+						"gba": "Tent",
+						"snes": "Tent"
+					},
+					"type": "Hidden",
+					"location": "Caboose room floor in NW corner",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Earring",
+						"snes": "Earrings"
+					},
+					"type": "Chest",
+					"location": "West end of the dining car",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Tent",
+						"snes": "Tent"
+					},
+					"type": "Hidden",
+					"location": "2nd suite, floor in NW corner",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Chest",
+					"location": "4th suite, rightmost",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Sniper Eye",
+						"snes": "Sniper Sight"
+					},
+					"type": "Chest",
+					"location": "4th suite, mid-right",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Chest",
+					"location": "4th suite, mid-left",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Hyper Wrist",
+						"snes": "Hyper Wrist"
+					},
+					"type": "Chest",
+					"location": "4th suite, leftmost",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Mobliz",
+				"items": [
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Clock",
+					"location": "Mailman’s house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Serpent Trench",
+				"items": [
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "Take first right branch",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Green Beret",
+						"snes": "Green Beret"
+					},
+					"type": "Chest",
+					"location": "Take second right branch",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Nikeah",
+				"items": [
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Clock",
+					"location": "In the Inn",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			}
+			],
+			"title": "Sabin’s Scenario"
+		},
+		{
+			"areas": [
+			{
+				"title": "South Figaro, escaping with Celes",
+				"items": [
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "Hidden sub-basement, northeast",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Ribbon",
+						"snes": "Ribbon"
+					},
+					"type": "Hidden",
+					"location": "Hidden sub-basement, S of X-Potion",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "Hidden sub-basement, south",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Iron Armor",
+						"snes": "Iron Armor"
+					},
+					"type": "Chest",
+					"location": "Escape tunnel, west",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Earring",
+						"snes": "Earrings"
+					},
+					"type": "Chest",
+					"location": "Escape tunnel, southwest",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Great Sword",
+						"snes": "RegalCutlass"
+					},
+					"type": "Chest",
+					"location": "Escape tunnel, northeast",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Heavy Shield",
+						"snes": "Heavy Shld"
+					},
+					"type": "Chest",
+					"location": "Escape tunnel, northeast",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Cave to S. Figaro, with Celes",
+				"items": [
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "West end of main cave",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			}
+			],
+			"title": "Locke’s Scenario"
+		},
+		{
+			"areas": [
+			{
+				"title": "Narshe, after group battle",
+				"items": [
+				{
+					"names": {
+						"gba": "Hyper Wrist",
+						"snes": "Hyper Wrist"
+					},
+					"type": "Chest",
+					"location": "Treasure house, northwest",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Thief’s Bracer",
+						"snes": "Sneak Ring"
+					},
+					"type": "Chest",
+					"location": "Treasure house, north",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Reflect Ring",
+						"snes": "Wall Ring"
+					},
+					"type": "Chest",
+					"location": "Treasure house, northeast",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Thief’s Knife",
+						"snes": "ThiefKnife"
+					},
+					"type": "Chest",
+					"location": "Treasure house, southwest",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Earring",
+						"snes": "Earrings"
+					},
+					"type": "Chest",
+					"location": "Treasure house, south",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "5000 Gil",
+						"snes": "5000 GP"
+					},
+					"type": "Chest",
+					"location": "Treasure house, southeast",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Clock",
+					"location": "Elder’s house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Kohlingen",
+				"items": [
+				{
+					"names": {
+						"gba": "Green Beret",
+						"snes": "Green Beret"
+					},
+					"type": "Chest",
+					"location": "Back door of old man’s house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Clock",
+					"location": "Rachel’s house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "House at Dragon’s Neck",
+				"items": [
+				{
+					"names": {
+						"gba": "Hero’s Ring",
+						"snes": "Hero Ring"
+					},
+					"type": "Pot",
+					"location": "Next to the front door",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Jidoor",
+				"items": [
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture"
+					},
+					"type": "Pot",
+					"location": "NE corner of Owzer’s house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Zozo",
+				"items": [
+				{
+					"names": {
+						"gba": "Chainsaw",
+						"snes": "Chain Saw"
+					},
+					"type": "Chest",
+					"location": "Beyond the clock puzzle",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture"
+					},
+					"type": "Chest",
+					"location": "Storeroom above the Cafe",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Potion",
+						"snes": "Tonic"
+					},
+					"type": "Chest",
+					"location": "\"Armor Shop\" (NW of town)",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Brigand’s Glove",
+						"snes": "Thief Glove"
+					},
+					"type": "Chest",
+					"location": "Lower storeroom in big tower",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture"
+					},
+					"type": "Pot",
+					"location": "Western tower, NW corner",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hi-Potion",
+						"snes": "Potion"
+					},
+					"type": "Pot",
+					"location": "Western tower, NW corner",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Burning Fist",
+						"snes": "Fire Knuckle"
+					},
+					"type": "Chest",
+					"location": "Upper storeroom in big tower",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hermes Sandals",
+						"snes": "RunningShoes"
+					},
+					"type": "Chest",
+					"location": "Top of big tower",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "Top of big tower",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Albrook",
+				"items": [
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture"
+					},
+					"type": "Pot",
+					"location": "Weapon Shop",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "Armor Shop",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "Armor Shop",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hi-Potion",
+						"snes": "Potion"
+					},
+					"type": "Barrel",
+					"location": "Outside the Inn",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Clock",
+					"location": "Cafe / Relic Shop",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Maranda",
+				"items": [
+				{
+					"names": {
+						"gba": "Holy Water",
+						"snes": "Revivify"
+					},
+					"type": "Crate",
+					"location": "West of the entrance",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Remedy",
+						"snes": "Remedy"
+					},
+					"type": "Crate",
+					"location": "South of the eastern exit",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Magitek Factory",
+				"items": [
+				{
+					"names": {
+						"gba": "Flametongue",
+						"snes": "Flame Sabre"
+					},
+					"type": "Chest",
+					"location": "West of the entrance",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture"
+					},
+					"type": "Chest",
+					"location": "South of entrance (use R tube)",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "West of first conveyor ride",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Thunder Blade",
+						"snes": "ThunderBlade"
+					},
+					"type": "Chest",
+					"location": "East of second conveyor ride",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Remedy",
+						"snes": "Remedy"
+					},
+					"type": "Chest",
+					"location": "Before third conveyor ride",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Dragoon Boots",
+						"snes": "DragoonBoots"
+					},
+					"type": "Chest",
+					"location": "After third ride, southwest",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Golden Shield",
+						"snes": "Gold Shld"
+					},
+					"type": "Chest",
+					"location": "Catwalk north of DragoonBoots",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Golden Helm",
+						"snes": "Gold Helmet"
+					},
+					"type": "Chest",
+					"location": "Southwest corner, through door",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Golden Armor",
+						"snes": "Gold Armor"
+					},
+					"type": "Hidden",
+					"location": "South wall, through hidden door",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Tent",
+						"snes": "Tent"
+					},
+					"type": "Chest",
+					"location": "Southeast corner, upstairs",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Icebrand",
+						"snes": "Blizzard"
+					},
+					"type": "Chest",
+					"location": "Pipes by crates in NE of 2nd room",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Zephyr Cloak",
+						"snes": "Zephyr Cape"
+					},
+					"type": "Chest",
+					"location": "Pipes by crates in NE of 2nd room",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Magitek Research Facility",
+				"items": [
+				{
+					"names": {
+						"gba": "Stoneblade",
+						"snes": "Break Blade"
+					},
+					"type": "Hidden",
+					"location": "Passage SW of last empty tube",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Narshe, the return",
+				"items": [
+				{
+					"names": {
+						"gba": "empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "Locked chest in treasure house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Cave to the Sealed Gate",
+				"items": [
+				{
+					"names": {
+						"gba": "Assassin’s Dagger",
+						"snes": "Assassin"
+					},
+					"type": "Chest",
+					"location": "First cave",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Kazekiri",
+						"snes": "Tempest"
+					},
+					"type": "Chest",
+					"location": "Second cave",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "Moving bridge cave, northeast",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Heiji’s Jitte",
+						"snes": "Coin Toss"
+					},
+					"type": "Chest",
+					"location": "Moving bridge cave, southwest",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "Southwest corner of lava cave",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Genji Glove",
+						"snes": "Genji Glove"
+					},
+					"type": "Chest",
+					"location": "Lava island (fall off bridge)",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Tent",
+						"snes": "Tent"
+					},
+					"type": "Chest",
+					"location": "Save point room",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Invisiblity Scroll",
+						"snes": "Invis Edge"
+					},
+					"type": "Hidden",
+					"location": "1S, 1W from grand stair, in floor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Gold Needle",
+						"snes": "Soft (claims to be Remedy)"
+					},
+					"type": "Hidden",
+					"location": "6S from Invis Edge, in floor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "South of grand stairway",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "293 Gil",
+						"snes": "293 GP (claims to be 2000 GP)"
+					},
+					"type": "Hidden",
+					"location": "3N from Ether, in floor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Water Scroll",
+						"snes": "Water Edge (“Water Skean”)"
+					},
+					"type": "Hidden",
+					"location": "3S, 3E from grand stair, in floor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Chest",
+					"location": "Northeast of grand stairway",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Magicite Shard",
+						"snes": "Magicite"
+					},
+					"type": "Chest",
+					"location": "Treasure room, west chest",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "Treasure room, northwest chest",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Magicite Shard",
+						"snes": "Magicite"
+					},
+					"type": "Chest",
+					"location": "Treasure room, north chest",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Ultimate Weapon",
+						"snes": "Atma Weapon"
+					},
+					"type": "Chest",
+					"location": "Treasure room, northeast chest",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Magicite Shard",
+						"snes": "Magicite"
+					},
+					"type": "Chest",
+					"location": "Northeast corner of lava cave",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Imperial Palace",
+				"items": [
+				{
+					"names": {
+						"gba": "Alarm Earring",
+						"snes": "Back Guard"
+					},
+					"type": "Chest",
+					"location": "Southwest storeroom",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "Southwest storeroom",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture"
+					},
+					"type": "Chest",
+					"location": "West barracks",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Gale Hairpin",
+						"snes": "Gale Hairpin"
+					},
+					"type": "Chest",
+					"location": "East bedroom",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Holy Water",
+						"snes": "Revivify"
+					},
+					"type": "Chest",
+					"location": "East bathroom",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Imperial Base, storeroom",
+				"items": [
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "Northwestern",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Angel Wings",
+						"snes": "Cherub Down"
+					},
+					"type": "Chest",
+					"location": "North wall",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "8000 Gil",
+						"snes": "8000 GP"
+					},
+					"type": "Chest",
+					"location": "West wall",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "Northwest of center",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Reflect Ring",
+						"snes": "Wall Ring"
+					},
+					"type": "Chest",
+					"location": "To the west of the buckets",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "13000 Gil",
+						"snes": "13000 GP"
+					},
+					"type": "Chest",
+					"location": "Easternmost",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Hermes Sandals",
+						"snes": "RunningShoes"
+					},
+					"type": "Chest",
+					"location": "Center of the room",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Chest",
+					"location": "Southwest of center",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "20000 Gil",
+						"snes": "20000 GP"
+					},
+					"type": "Chest",
+					"location": "Southeastern",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Angel Ring",
+						"snes": "Cure Ring"
+					},
+					"type": "Chest",
+					"location": "Southwestern",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Alarm Earring",
+						"snes": "Back Guard"
+					},
+					"type": "Chest",
+					"location": "South wall",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Flametongue",
+						"snes": "Flame Sabre"
+					},
+					"type": "Stove",
+					"location": "I don’t know why either...",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Hidden",
+					"location": "Southeast corner of the room",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Albrook",
+				"items": [
+				{
+					"names": {
+						"gba": "Teleport Stone",
+						"snes": "Warp Stone"
+					},
+					"type": "Crate",
+					"location": "Next to the docks entrance",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Thamasa",
+				"items": [
+				{
+					"names": {
+						"gba": "Eye Drops",
+						"snes": "Eyedrop"
+					},
+					"type": "Barrel",
+					"location": "Next to the Item Shop",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Gold Needle",
+						"snes": "Soft"
+					},
+					"type": "Barrel",
+					"location": "Next to the Relic Shop",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Green Cherry",
+						"snes": "Green Cherry"
+					},
+					"type": "Barrel",
+					"location": "Next to Strago’s house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Echo Screen",
+						"snes": "Echo Screen"
+					},
+					"type": "Barrel",
+					"location": "Next to mayor’s house",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Barrel",
+					"location": "Next to the Inn",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Memento Ring",
+						"snes": "Memento Ring"
+					},
+					"type": "Hidden",
+					"location": "Strago’s house, W of upstairs table",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Burning House",
+				"items": [
+				{
+					"names": {
+						"gba": "Flame Rod",
+						"snes": "Fire Rod"
+					},
+					"type": "Chest",
+					"location": "Second door to the right",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Ice Rod",
+						"snes": "Ice Rod"
+					},
+					"type": "Chest",
+					"location": "Third door to the right",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Espers’ Gathering Place",
+				"items": [
+				{
+					"names": {
+						"gba": "Healing Rod",
+						"snes": "Heal Rod"
+					},
+					"type": "Chest",
+					"location": "West of main entrance",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Chocobo Suit",
+						"snes": "Chocobo Suit"
+					},
+					"type": "Chest",
+					"location": "Go north from north trapdoor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Tabby Suit",
+						"snes": "Tabby Suit"
+					},
+					"type": "Chest",
+					"location": "Go west from north trapdoor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "Go through eastern trapdoor",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Doma Castle",
+				"items": [
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Clock",
+					"location": "Alarm clock in the barracks",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "Barracks",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "Cyan’s room",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Chest",
+					"location": "Storeroom (SE on castle walls)",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Prayer Beads",
+						"snes": "Beads"
+					},
+					"type": "Chest",
+					"location": "Storeroom (SE on castle walls)",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Floating Continent / Floating Island",
+				"items": [
+				{
+					"names": {
+						"gba": "Murasame",
+						"snes": "Murasame"
+					},
+					"type": "Orb",
+					"location": "West of the first warp tunnel",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Sasuke",
+						"snes": "Hardened"
+					},
+					"type": "Orb",
+					"location": "SE of the first warp tunnel",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Beret",
+						"snes": "Beret"
+					},
+					"type": "Orb",
+					"location": "Northeast of save point cave",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Orb",
+					"location": "Escape route (approach from SE!)",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			}
+			],
+			"title": "After All Three Scenarios"
+		},
+		{
+			"areas": [
+			{
+				"title": "Tzen, in collapsing house",
+				"items": [
+				{
+					"names": {
+						"gba": "Healing Rod",
+						"snes": "Heal Rod"
+					},
+					"type": "Chest",
+					"location": "Northeast corner, 1st floor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture"
+					},
+					"type": "Chest",
+					"location": "Northwest corner, 1st floor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Fight 4x Nightwalker",
+						"snes": "Fight 4x Pm Stalker"
+					},
+					"type": "Chest",
+					"location": "By stairs, 1st floor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Holy Rod",
+						"snes": "Pearl Rod"
+					},
+					"type": "Chest",
+					"location": "Center, 1st floor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Hyper Wrist",
+						"snes": "Hyper Wrist"
+					},
+					"type": "Chest",
+					"location": "Southwest corner, 1st floor",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Magicite Shard",
+						"snes": "Magicite"
+					},
+					"type": "Chest",
+					"location": "Northeast corner, basement",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Fight 4x Nightwalker",
+						"snes": "Fight 4x Pm Stalker"
+					},
+					"type": "Chest",
+					"location": "Northwest corner, basement",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Bloodsword",
+						"snes": "Drainer"
+					},
+					"type": "Chest",
+					"location": "South, basement",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Mobliz, first visit",
+				"items": [
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Barrel",
+					"location": "Next to the soldier’s house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "South Figaro, outdoors",
+				"items": [
+				{
+					"names": {
+						"gba": "Holy Water",
+						"snes": "Revivify"
+					},
+					"type": "Barrel",
+					"location": "West of chocobo stable",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Tent",
+						"snes": "Tent"
+					},
+					"type": "Crate",
+					"location": "East of chocobo stable",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Crate",
+					"location": "Southwest corner of town",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Tent",
+						"snes": "Tent"
+					},
+					"type": "Barrel",
+					"location": "Just north of the docks entrance",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Remedy",
+						"snes": "Remedy"
+					},
+					"type": "Crate",
+					"location": "Just north of the docks entrance",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Barrel",
+					"location": "Between armory entrances",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Phoenix Down",
+						"snes": "Fenix Down"
+					},
+					"type": "Barrel",
+					"location": "On top of town wall, SW end",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Cave to S. Figaro",
+				"items": [
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "East end of main cave",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hero’s Ring",
+						"snes": "Hero Ring"
+					},
+					"type": "Chest",
+					"location": "Up the northwest stairs",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Figaro Castle, basement",
+				"items": [
+				{
+					"names": {
+						"gba": "Gravity Rod",
+						"snes": "Gravity Rod"
+					},
+					"type": "Chest",
+					"location": "Left chest in southeast room",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Crystal Helm",
+						"snes": "Crystal Helm"
+					},
+					"type": "Chest",
+					"location": "Right chest in southeast room",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "Left chest in southwest room",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "Right chest in southwest room",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Royal Crown",
+						"snes": "Regal Crown"
+					},
+					"type": "Chest",
+					"location": "Up western stairs",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Soul Sabre",
+						"snes": "Soul Sabre"
+					},
+					"type": "Statue",
+					"location": "Center of the treasury",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Darill’s Tomb (aka Daryl’s Tomb or Daryll’s Tomb - game is inconsistent)",
+				"items": [
+				{
+					"names": {
+						"gba": "Genji Helm",
+						"snes": "Genji Helmet"
+					},
+					"type": "Chest",
+					"location": "Through southeast doorway",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Crystal Mail",
+						"snes": "Crystal Mail"
+					},
+					"type": "Chest",
+					"location": "Through southwest doorway",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Regal Gown",
+						"snes": "Czarina Gown"
+					},
+					"type": "Chest",
+					"location": "At bottom of stairs",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Growth Egg",
+						"snes": "Exp. Egg"
+					},
+					"type": "Chest",
+					"location": "Hidden path E of Czarina Gown",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Man-Eater",
+						"snes": "Man Eater"
+					},
+					"type": "Chest",
+					"location": "Northeast of the save point",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Dragon Claw",
+						"snes": "Dragon Claw"
+					},
+					"type": "Chest",
+					"location": "Northwest of the save point",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Mt. Zozo",
+				"items": [
+				{
+					"names": {
+						"gba": "Red Cap",
+						"snes": "Red Cap"
+					},
+					"type": "Chest",
+					"location": "West of the entrance",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Ice Shield",
+						"snes": "Ice Shld"
+					},
+					"type": "Chest",
+					"location": "Northwest of entrance",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Thunder Shield",
+						"snes": "Thunder Shld"
+					},
+					"type": "Chest",
+					"location": "In spotlight",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Aegis Shield",
+						"snes": "Aegis Shld"
+					},
+					"type": "Chest",
+					"location": "On far side of broken bridge",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Gold Hairpin",
+						"snes": "Gold Hairpin"
+					},
+					"type": "Chest",
+					"location": "Take northwest exit from cave",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "“Books”",
+						"snes": "“Books”"
+					},
+					"type": "Chest",
+					"location": "Cyan’s locked chest, first time",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "Cyan’s locked chest, second time!",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Cave on the Veldt",
+				"items": [
+				{
+					"names": {
+						"gba": "Berserker Ring",
+						"snes": "Rage Ring"
+					},
+					"type": "Chest",
+					"location": "Northwest of campfire",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Tigerfang",
+						"snes": "Tiger Fangs"
+					},
+					"type": "Chest",
+					"location": "Through hidden passage in NW",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "IIchigeki",
+						"snes": "Striker"
+					},
+					"type": "Chest",
+					"location": "South of switched passage",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Jidoor, Owzer’s house",
+				"items": [
+				{
+					"names": {
+						"gba": "Moogle Suit",
+						"snes": "Moogle Suit"
+					},
+					"type": "Chest",
+					"location": "Through first door on the left",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Lich Ring",
+						"snes": "Relic Ring"
+					},
+					"type": "Hidden",
+					"location": "North of the 3 moving doors",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "293 Gil",
+						"snes": "293 GP (claims to be 2000 GP)"
+					},
+					"type": "Chest",
+					"location": "Floating chest",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Potion",
+						"snes": "Tonic (claims to be Potion)"
+					},
+					"type": "Chest",
+					"location": "Floating chest",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Ether",
+						"snes": "Tincture (claims to be Ether)"
+					},
+					"type": "Chest",
+					"location": "Floating chest",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Gold Needle",
+						"snes": "Soft (claims to be Remedy)"
+					},
+					"type": "Chest",
+					"location": "Floating chest",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Mobliz, recruiting Terra",
+				"items": [
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Pot",
+					"location": "Cave under soldier’s house",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Narshe, mines",
+				"items": [
+				{
+					"names": {
+						"gba": "Guard Bracelet",
+						"snes": "Pod Bracelet"
+					},
+					"type": "Chest",
+					"location": "North of save point",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Elixir",
+						"snes": "Elixir"
+					},
+					"type": "Chest",
+					"location": "Northwest of save point",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Ribbon",
+						"snes": "Ribbon"
+					},
+					"type": "Chest",
+					"location": "West end of the Moogle cave",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Molulu’s Charm",
+						"snes": "Moogle Charm"
+					},
+					"type": "Hidden",
+					"location": "Wall behind Mog",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Narshe, Umaro’s cave",
+				"items": [
+				{
+					"names": {
+						"gba": "Minerva Bustier",
+						"snes": "Minerva"
+					},
+					"type": "Chest",
+					"location": "Through western doorway",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "X-Ether",
+						"snes": "X-Ether"
+					},
+					"type": "Chest",
+					"location": "Northwest of middle doorway",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Gauntlet",
+						"snes": "Gauntlet"
+					},
+					"type": "Chest",
+					"location": "Southwest chest in bridges room",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Cyan’s Dream",
+				"items": [
+				{
+					"names": {
+						"gba": "Genji Glove",
+						"snes": "Genji Glove"
+					},
+					"type": "Chest",
+					"location": "Second train car, between boxes",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Lump of Metal",
+						"snes": "Lump of Metal"
+					},
+					"type": "Chest",
+					"location": "Second train car, top left corner",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Flame Shield",
+						"snes": "Flame Shld"
+					},
+					"type": "Chest",
+					"location": "2nd car, behind moving chest",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "3rd car, SE, by furniture",
+					"missable": true
+				},
+				{
+					"names": {
+						"gba": "Ice Shield",
+						"snes": "Ice Shld"
+					},
+					"type": "Chest",
+					"location": "3rd car, west end",
+					"missable": true
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Triangle Island, Gogo’s lair",
+				"items": [
+				{
+					"names": {
+						"gba": "Red Jacket",
+						"snes": "Red Jacket"
+					},
+					"type": "Chest",
+					"location": "Fall off the bridges",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "Fall off the bridges",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Genji Armor",
+						"snes": "Genji Armor"
+					},
+					"type": "Chest",
+					"location": "First chest on the bridges",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Magical Brush",
+						"snes": "Magical Brsh"
+					},
+					"type": "Chest",
+					"location": "Second chest on the bridges",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Fake Mustache",
+						"snes": "FakeMustache"
+					},
+					"type": "Chest",
+					"location": "Chest at end of the bridges",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Zephyr Cloak",
+						"snes": "Zephyr Cape"
+					},
+					"type": "Chest",
+					"location": "First chest under falling roof",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hero’s Ring",
+						"snes": "Hero Ring"
+					},
+					"type": "Chest",
+					"location": "Second chest under falling roof",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Pinwheel",
+						"snes": "Tack Star"
+					},
+					"type": "Chest",
+					"location": "Third chest under falling roof",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Thunder Shield",
+						"snes": "Thunder Shld"
+					},
+					"type": "Chest",
+					"location": "Jumping platforms before Gogo",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Ancient Castle",
+				"items": [
+				{
+					"names": {
+						"gba": "Hi-Ether",
+						"snes": "Ether"
+					},
+					"type": "Chest",
+					"location": "Southeast corner of first cave",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Wing Edge",
+						"snes": "Wing Edge"
+					},
+					"type": "Chest",
+					"location": "Southwest corner of first cave",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Gladius",
+						"snes": "Graedus"
+					},
+					"type": "Chest",
+					"location": "East side of second cave",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Death Tarot",
+						"snes": "Doom Darts"
+					},
+					"type": "Chest",
+					"location": "Middle of second cave",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Magicite Shard",
+						"snes": "Magicite"
+					},
+					"type": "Chest",
+					"location": "South end of third cave",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "X-Potion",
+						"snes": "X-Potion"
+					},
+					"type": "Chest",
+					"location": "West end of third cave",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Master’s Scroll",
+						"snes": "Offering"
+					},
+					"type": "Chest",
+					"location": "West of main castle entrance",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Punisher",
+						"snes": "Punisher"
+					},
+					"type": "Chest",
+					"location": "East of main castle entrance",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Blizzard Orb",
+						"snes": "Blizzard Orb"
+					},
+					"type": "Chest",
+					"location": "Northeast from the throne room",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Gold Hairpin",
+						"snes": "Gold Hairpin"
+					},
+					"type": "Chest",
+					"location": "Northeast from the throne room",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "X-Ether",
+						"snes": "X-Ether"
+					},
+					"type": "Bucket",
+					"location": "East from the throne room",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Phoenix Cave",
+				"items": [
+				{
+					"names": {
+						"gba": "Wing Edge",
+						"snes": "Wing Edge"
+					},
+					"type": "Chest",
+					"location": "Northwest of main entrance",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "East side of upper level",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Teleport Stone",
+						"snes": "Warp Stone"
+					},
+					"type": "Chest",
+					"location": "Southeast corner of upper level",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "SW of first stepping stones",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "SE of first stepping stones",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "Lower level, behind spikes",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Empty",
+						"snes": "empty"
+					},
+					"type": "Chest",
+					"location": "In second stepping stones area",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Dragon Horn",
+						"snes": "Dragon Horn"
+					},
+					"type": "Chest",
+					"location": "Past the Red Dragon",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Ribbon",
+						"snes": "Ribbon"
+					},
+					"type": "Chest",
+					"location": "Downstairs, after draining lava",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Fanatics’ Tower",
+				"items": [
+				{
+					"names": {
+						"gba": "Safety Bit",
+						"snes": "Safety Bit"
+					},
+					"type": "Chest",
+					"location": "Storeroom on 7th floor",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Air Anchor",
+						"snes": "Air Anchor"
+					},
+					"type": "Chest",
+					"location": "Hidden room on 6th floor",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Genji Shield",
+						"snes": "Genji Shld"
+					},
+					"type": "Chest",
+					"location": "Storeroom on 16th floor",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Kagenui",
+						"snes": "Stunner"
+					},
+					"type": "Chest",
+					"location": "Storeroom on 25th floor",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Force Armor",
+						"snes": "Force Armor"
+					},
+					"type": "Chest",
+					"location": "Storeroom on 34th floor",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Soul of Thamasa",
+						"snes": "Gem Box"
+					},
+					"type": "Chest",
+					"location": "Room on 38th (top) floor",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Kefka’s Tower, group 1",
+				"items": [
+				{
+					"names": {
+						"gba": "Hypno Crown",
+						"snes": "Coronet"
+					},
+					"type": "Chest",
+					"location": "Northeast of entry point",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Fixed Dice",
+						"snes": "Fixed Dice"
+					},
+					"type": "Chest",
+					"location": "First metallic area",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Pinwheel",
+						"snes": "Tack Star"
+					},
+					"type": "Chest",
+					"location": "Third time outside, northwest",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Kefka’s Tower, group 2",
+				"items": [
+				{
+					"names": {
+						"gba": "Minerva Bustier",
+						"snes": "Minerva"
+					},
+					"type": "Chest",
+					"location": "First cave area, NW corner",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Pinwheel",
+						"snes": "Tack Star"
+					},
+					"type": "Chest",
+					"location": "Second cave area",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Force Shield",
+						"snes": "Force Shld"
+					},
+					"type": "Chest",
+					"location": "Second time outside, west",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Force Armor",
+						"snes": "Force Armor"
+					},
+					"type": "Chest",
+					"location": "Second time outside, southwest",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Ribbon",
+						"snes": "Ribbon"
+					},
+					"type": "Chest",
+					"location": "By switch for group 1 bridge",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Kefka’s Tower, group 3",
+				"items": [
+				{
+					"names": {
+						"gba": "Red Cap",
+						"snes": "Red Cap"
+					},
+					"type": "Chest",
+					"location": "South of entry point",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Nutkin Suit",
+						"snes": "Nutkin Suit"
+					},
+					"type": "Chest",
+					"location": "Through first door seen",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Gauntlet",
+						"snes": "Gauntlet"
+					},
+					"type": "Chest",
+					"location": "Through first door seen",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Hero’s Ring",
+						"snes": "Hero Ring"
+					},
+					"type": "Chest",
+					"location": "By stairs in conveyor area",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Aegis Shield",
+						"snes": "Aegis Shld"
+					},
+					"type": "Chest",
+					"location": "South of conveyor (hidden path)",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Megalixir",
+						"snes": "Megalixir"
+					},
+					"type": "Chest",
+					"location": "Second time outside, east",
+					"missable": false
+				},
+				{
+					"names": {
+						"gba": "Rainbow Brush",
+						"snes": "Rainbow Brsh"
+					},
+					"type": "Chest",
+					"location": "Second time outside, west",
+					"missable": false
+				}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Kefka’s Tower, after weights & switches room",
+				"items": [
+					{
+						"names": {
+							"gba": "Ribbon",
+							"snes": "Ribbon"
+						},
+						"type": "Hidden",
+						"location": "Wall south of Poltergeist",
+						"missable": false
+					}
+				],
+				"inSNES": true
+			},
+			{
+				"title": "Dragon’s Den",
+				"items": [
+					{
+						"names": {
+							"gba": "Rename Card",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Burning Labyrinth (Middle)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Hi-Ether",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Burning Labyrinth (East)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Elixir",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Burning Labyrinth (North)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Megalixir",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "North-East of Red Dragon",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Magicite Shard",
+							"snes": ""
+						},
+						"type": "Hidden",
+						"location": "South-East of Red Dragon",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Teleport Stone",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "South-East of Magicite Shard",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Celestriad",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Grand Cavern (Wooden Bridges; South)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Elixir",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Grand Cavern (Wooden Bridges; North)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "X-Ether",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Grand Cavern (Above Elixir)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Magus Robe",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Holy Palace (West)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "X-Potion",
+							"snes": ""
+						},
+						"type": "Hidden",
+						"location": "Inner Eye Labyrinth (South-East)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Force Armor",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Inner Eye Labyrinth (South-West)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Elixir",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Cloister (North-East)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Phoenix Down",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Cloister (North-West)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Ribbon",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Cloister (South-East)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Ribbon",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Treasure Room (NW)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Bone Wrist",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Treasure Room (SW)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Stardust Rod",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Treasure Room (SW)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Dueling Mask",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Treasure Room",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Genji Glove",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Treasure Room",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Crystal Orb",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Treasure Room",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Oborozuki",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Treasure Room",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Angel Brush",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Treasure Room",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Gungnir",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Dragon Temple - Treasure Room",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "X-Potion",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Earth Labyrinth (South-East)",
+						"missable": false
+					},
+					{
+						"names": {
+							"gba": "Remedy",
+							"snes": ""
+						},
+						"type": "Chest",
+						"location": "Earth Labyrinth (South-East)",
+						"missable": false
+					}
+				],
+				"inSNES": false
+			}
+			],
+			"title": "World Of Ruin"
 		}
 	]
 }

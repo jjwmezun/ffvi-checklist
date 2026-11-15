@@ -4,6 +4,7 @@ interface CheckData {
 	dance: boolean[],
 	magicite: boolean[],
 	rage: boolean[],
+	treasure: boolean[][][],
 	veldt: boolean[],
 }
 
@@ -13,6 +14,7 @@ enum CheckType {
 	Dance = `dance`,
 	Magicite = `magicite`,
 	Rage = `rage`,
+	Treasure = `treasure`,
 	Veldt = `veldt`,
 }
 
@@ -89,6 +91,38 @@ interface RageData {
 	statusImmunity: string,
 }
 
+interface TreasureAreaData {
+	title: string,
+	inSNES: boolean,
+	items: TreasureItemData[],
+}
+
+interface TreasureData {
+	title: string,
+	areas: TreasureAreaData[],
+}
+
+interface TreasureItemData {
+	names: {
+		gba: string,
+		snes: string,
+	},
+	location: string,
+	missable: boolean,
+	type: string,
+}
+
+interface TreasureItemDataFlattened {
+	inSNES: boolean,
+	names: {
+		gba: string,
+		snes: string,
+	},
+	location: string,
+	missable: boolean,
+	type: string,
+}
+
 export {
 	CheckType,
 	GameVersion,
@@ -101,4 +135,8 @@ export type {
 	DanceData,
 	MagiciteData,
 	RageData,
+	TreasureAreaData,
+	TreasureData,
+	TreasureItemData,
+	TreasureItemDataFlattened,
 };

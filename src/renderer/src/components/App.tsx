@@ -9,6 +9,7 @@ import {
 	RageData,
 	LoreData,
 	MagiciteData,
+	TreasureData,
 } from '../common/types';
 
 import Enemy from './Enemy';
@@ -18,6 +19,7 @@ import Rage from './Rage';
 import Search from './Search';
 import Magicite from './Magicite';
 import Logo from './Logo';
+import Treasure from './Treasure';
 
 interface DataType {
 	enemy: EnemyData[],
@@ -25,6 +27,7 @@ interface DataType {
 	lore: LoreData[],
 	magicite: MagiciteData[],
 	rage: RageData[],
+	treasure: TreasureData[],
 }
 
 interface appPropTypes {
@@ -48,16 +51,18 @@ enum ItemType {
 	Magicite = `magicite`,
 	Rage = `rage`,
 	Dance = `dance`,
+	Treasure = `treasure`,
 }
 
 function App( props: appPropTypes ): React.JSX.Element {
 	const { data } = props;
 	const {
+		dance,
 		enemy,
 		lore,
 		magicite,
 		rage,
-		dance,
+		treasure,
 	} = data as DataType;
 	const [ gameVersion, setGameVersion ] = useState<GameVersion>( GameVersion.GBA );
 	const [ itemType, setItemType ] = useState<ItemType>( ItemType.Enemy );
@@ -97,6 +102,19 @@ function App( props: appPropTypes ): React.JSX.Element {
 			newChecked[ type ][ index ] = !newChecked[ type ][ index ];
 			setChecked( newChecked );
 			saveCheck( type, index, newChecked );
+		};
+	};
+
+	const generateOnCheckTreasure = ( sectionIndex: number ) => ( areaIndex: number ) => ( itemIndex: number ) => {
+		return () => {
+			const newChecked = { ...checked };
+			newChecked.treasure[ sectionIndex ][ areaIndex ][ itemIndex ] =
+				!newChecked.treasure[ sectionIndex ][ areaIndex ][ itemIndex ];
+			setChecked( newChecked );
+			localStorage.setItem(
+				`treasure-${ sectionIndex }-${ areaIndex }-${ itemIndex }`,
+				newChecked.treasure[ sectionIndex ][ areaIndex ][ itemIndex ] ? `1` : `0`,
+			);
 		};
 	};
 
@@ -231,6 +249,12 @@ function App( props: appPropTypes ): React.JSX.Element {
 				gameVersion={ gameVersion }
 				generateOnCheck={ generateOnCheck }
 			/> }
+			{ itemType === ItemType.Treasure && <Treasure
+				checked={ checked }
+				data={ treasure }
+				gameVersion={ gameVersion }
+				generateOnCheck={ generateOnCheckTreasure }
+			/> }
 		</div>
 		<Search />
 	</div>;
@@ -287,6 +311,11 @@ function generateHardSaveData( data: DataType ): CheckData | null {
 		lore: data.lore.map( () => saveData.shift() || false ),
 		magicite: data.magicite.map( () => saveData.shift() || false ),
 		rage: data.rage.map( () => saveData.shift() || false ),
+		// eslint-disable-next-line function-paren-newline
+		treasure: data.treasure.map(
+			section => section.areas.map( area => area.items.map( () => saveData.shift() || false ) ),
+		// eslint-disable-next-line function-paren-newline
+		),
 		veldt: data.enemy.map( () => saveData.shift() || false ),
 	};
 }
@@ -323,6 +352,14 @@ function generateCheckData( data: DataType ): CheckData {
 			const stored = localStorage.getItem( `rage-${ index }` );
 			return stored === `1` ? true : false;
 		} ),
+		// eslint-disable-next-line function-paren-newline
+		treasure: data.treasure.map(
+			( section, sectionIndex ) => section.areas.map( ( area, areaIndex ) => area.items.map( ( _, index ) => {
+				const stored = localStorage.getItem( `treasure-${ sectionIndex }-${ areaIndex }-${ index }` );
+				return stored === `1` ? true : false;
+			} ) ),
+		// eslint-disable-next-line function-paren-newline
+		),
 		veldt: data.enemy.map( ( _: EnemyData, index: number ) => {
 			const stored = localStorage.getItem( `veldt-${ index }` );
 			return stored === `1` ? true : false;
@@ -347,6 +384,13 @@ function generateEmptyCheckData( data: DataType ): CheckData {
 		rage: data.rage.map( () => {
 			return false;
 		} ),
+		// eslint-disable-next-line function-paren-newline
+		treasure: data.treasure.map(
+			section => section.areas.map( area => area.items.map( () => {
+				return false;
+			} ) ),
+		// eslint-disable-next-line function-paren-newline
+		),
 		veldt: data.enemy.map( () => {
 			return false;
 		} ),
