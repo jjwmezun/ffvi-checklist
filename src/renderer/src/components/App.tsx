@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import {
 	CheckData,
 	CheckType,
+	DanceData,
 	EnemyData,
 	GameVersion,
 	RageData,
@@ -11,6 +12,7 @@ import {
 } from '../common/types';
 
 import Enemy from './Enemy';
+import Dance from './Dance';
 import Lore from './Lore';
 import Rage from './Rage';
 import Search from './Search';
@@ -19,6 +21,7 @@ import Logo from './Logo';
 
 interface DataType {
 	enemy: EnemyData[],
+	dance: DanceData[],
 	lore: LoreData[],
 	magicite: MagiciteData[],
 	rage: RageData[],
@@ -44,6 +47,7 @@ enum ItemType {
 	Lore = `lore`,
 	Magicite = `magicite`,
 	Rage = `rage`,
+	Dance = `dance`,
 }
 
 function App( props: appPropTypes ): React.JSX.Element {
@@ -53,6 +57,7 @@ function App( props: appPropTypes ): React.JSX.Element {
 		lore,
 		magicite,
 		rage,
+		dance,
 	} = data as DataType;
 	const [ gameVersion, setGameVersion ] = useState<GameVersion>( GameVersion.GBA );
 	const [ itemType, setItemType ] = useState<ItemType>( ItemType.Enemy );
@@ -220,6 +225,12 @@ function App( props: appPropTypes ): React.JSX.Element {
 				gameVersion={ gameVersion }
 				generateOnCheck={ generateOnCheck }
 			/> }
+			{ itemType === ItemType.Dance && <Dance
+				list={ dance }
+				checked={ checked }
+				gameVersion={ gameVersion }
+				generateOnCheck={ generateOnCheck }
+			/> }
 		</div>
 		<Search />
 	</div>;
@@ -272,6 +283,7 @@ function generateHardSaveData( data: DataType ): CheckData | null {
 	const saveData: boolean[] = save.split( `` ).map( char => char === `1` );
 	return {
 		bestiary: data.enemy.map( () => saveData.shift() || false ),
+		dance: data.dance.map( () => saveData.shift() || false ),
 		lore: data.lore.map( () => saveData.shift() || false ),
 		magicite: data.magicite.map( () => saveData.shift() || false ),
 		rage: data.rage.map( () => saveData.shift() || false ),
@@ -293,6 +305,10 @@ function generateCheckData( data: DataType ): CheckData {
 	return {
 		bestiary: data.enemy.filter( i => i.numbers.gba ).map( ( _: EnemyData, index: number ) => {
 			const stored = localStorage.getItem( `bestiary-${ index }` );
+			return stored === `1` ? true : false;
+		} ),
+		dance: data.dance.map( ( _: DanceData, index: number ) => {
+			const stored = localStorage.getItem( `dance-${ index }` );
 			return stored === `1` ? true : false;
 		} ),
 		lore: data.lore.map( ( _: LoreData, index: number ) => {
@@ -317,6 +333,9 @@ function generateCheckData( data: DataType ): CheckData {
 function generateEmptyCheckData( data: DataType ): CheckData {
 	return {
 		bestiary: data.enemy.filter( i => i.numbers.gba ).map( () => {
+			return false;
+		} ),
+		dance: data.dance.map( () => {
 			return false;
 		} ),
 		lore: data.lore.map( () => {

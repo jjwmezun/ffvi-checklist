@@ -1,6 +1,7 @@
 interface CheckData {
 	bestiary: boolean[],
 	lore: boolean[],
+	dance: boolean[],
 	magicite: boolean[],
 	rage: boolean[],
 	veldt: boolean[],
@@ -9,9 +10,33 @@ interface CheckData {
 enum CheckType {
 	Bestiary = `bestiary`,
 	Lore = `lore`,
+	Dance = `dance`,
 	Magicite = `magicite`,
 	Rage = `rage`,
 	Veldt = `veldt`,
+}
+
+interface DanceData {
+	id: number,
+	in: {
+		gba: {
+			wob: boolean,
+			wor: boolean,
+		},
+		snes: {
+			wob: boolean,
+			wor: boolean,
+		},
+	},
+	found: {
+		gba: string[],
+		snes: string[],
+	},
+	missible: boolean,
+	names: {
+		gba: string,
+		snes?: string,
+	},
 }
 
 interface EnemyData {
@@ -73,6 +98,7 @@ export type {
 	CheckData,
 	EnemyData,
 	LoreData,
+	DanceData,
 	MagiciteData,
 	RageData,
 };
