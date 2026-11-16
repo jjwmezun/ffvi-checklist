@@ -52,9 +52,10 @@ interface EnemyData {
 	icon: string,
 	id: number,
 	location: string[],
+	missable: string,
 	names: {
 		gba: string,
-		pixel: string,
+		pixel?: string,
 		snes?: string,
 	},
 	numbers: {

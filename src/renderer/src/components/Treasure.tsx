@@ -130,6 +130,7 @@ function Treasure( props: TreasureProps ) {
 			total={ flatTreasure.length }
 		/>
 		<div className="treasure-desc">Info based heavily on the treasure FAQ by Corundum & the edited-for-GBA version by Lufia_Maxim @ <a href="https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/40362">https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/40362</a> & <a href="https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/47026">https://gamefaqs.gamespot.com/iphone/734974-final-fantasy-vi/faqs/47026</a>, respectively.</div>
+		<div className="treasure-desc">Note that this list skips the inferior early treasures in Narshe, South Figaro, & the South Figaro Cave & lists the improved treasures you can get later by skippning these earlier treasures.</div>
 		{ data.map( ( section, index ) => <TreasureSection
 			key={ section.title }
 			checked={ checked.treasure[ index ] }

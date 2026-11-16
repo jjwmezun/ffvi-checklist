@@ -1,6 +1,6 @@
 {
   "name": "ffvi-checklist",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Completionist checklist for Final Fantasy VI.",
   "main": "./out/main/index.js",
   "author": "J. J. W. Mezun",

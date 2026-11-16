@@ -74,6 +74,9 @@ function EnemyRow( props: CheckListRowProps ): React.JSX.Element {
 				{ steal.names[ gameVersion ] } ({ steal.chance })
 			</div> ) }
 		</td>
+		<td className="checklist-table__cell">
+			{ item.missable }
+		</td>
 	</tr>;
 }
 
@@ -119,6 +122,7 @@ function Enemy( props: EnemyProps ): React.JSX.Element {
 					<th className="checklist-table__cell">Location</th>
 					<th className="checklist-table__cell">Drops</th>
 					<th className="checklist-table__cell">Steal</th>
+					<th className="checklist-table__cell">Missable</th>
 				</tr>
 			</thead>
 			<tbody>

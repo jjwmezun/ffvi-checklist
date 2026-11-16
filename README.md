@@ -2,9 +2,15 @@
 
 Checklist for Final Fantasy VI on the GBA or SNES.
 
-## Recommended IDE Setup
+## Version history
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+### 1.1 – 2026 November 16
+
+Adds dances & treasure lists, Pixel Remaster game version, & meter @ the top o’ each section.
+
+### 1.0 – 2026 October 26
+
+Initial version.
 
 ## Project Setup
 

@@ -8,7 +8,9 @@ function MeterSection( props: MeterSectionProps ) {
 	const { checked, title, total } = props;
 
 	return <div className="dialog-sect">
-		<div>{ title } – { checked } / { total } ( { ( checked / total * 100 ).toFixed( 0 ) }% )</div>
+		<div className="dialog-sect__title">
+			{ title } – { checked } / { total } ( { ( checked / total * 100 ).toFixed( 0 ) }% )
+		</div>
 		<div className="meter">
 			<div
 				className={ `meter__fill${ checked === total ? ` meter__fill--full` : `` }` }
